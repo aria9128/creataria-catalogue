@@ -1,0 +1,2021 @@
+{
+  "schema_version": 1,
+  "family_count": 24,
+  "cells_total": 216,
+  "cells_filled": 119,
+  "cells_empty": 97,
+  "percentage": 55.09,
+  "minimum_creations_per_family": 5,
+  "family_counts": {
+    "couture": 11,
+    "crochet": 1,
+    "tricot": 1,
+    "broderie": 2,
+    "papier": 9,
+    "bois": 9,
+    "dessin": 9,
+    "peinture": 1,
+    "origami": 2,
+    "scrapbooking": 1,
+    "bijoux": 9,
+    "modelage": 9,
+    "macrame": 9,
+    "resine": 0,
+    "jardinage": 1,
+    "cuisine_creative": 0,
+    "recyclage": 1,
+    "jeux": 9,
+    "decoration": 9,
+    "textile": 3,
+    "mosaique": 9,
+    "photographie": 9,
+    "astronomie": 9,
+    "echecs": 0
+  },
+  "families_below_minimum": [
+    "crochet",
+    "tricot",
+    "broderie",
+    "peinture",
+    "origami",
+    "scrapbooking",
+    "resine",
+    "jardinage",
+    "cuisine_creative",
+    "recyclage",
+    "textile",
+    "echecs"
+  ],
+  "cells": [
+    {
+      "family_id": "couture",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "tech-couture-point-arriere",
+        "tech-patron-reporter",
+        "couture-debutant-court-pique-aiguilles"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "couture-debutant-moyen-tote"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "couture-debutant-long-housse"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "couture-intermediaire-court-etui"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "sachet-couture"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "couture-intermediaire-long-tablier"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "couture-confirme-court-ourlet"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "couture-confirme-moyen-pochette-zip"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "couture",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "couture-confirme-long-sac-double-zip"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "crochet",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "tech-crochet-maille"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "crochet",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "crochet",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "tech-tricot-montage"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "tricot",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "tricot",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "tech-broderie-point-arriere"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "broderie",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "carte-broderie"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "broderie",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "broderie",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "papier",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "papier-debutant-court-fleur"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "papier-debutant-moyen-carte"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "papier-debutant-long-lanterne"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "papier-intermediaire-court-etiquettes"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "papier-intermediaire-moyen-livret"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "papier-intermediaire-long-pop-up"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "papier-confirme-court-quilling"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "papier-confirme-moyen-tissage"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "papier",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "papier-confirme-long-sculpture"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "bois-debutant-court-support-photo"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "bois-debutant-moyen-plaque-porte"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "bois-debutant-long-cadre"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "bois-intermediaire-court-marque-page"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "bois-intermediaire-moyen-porte-cles"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "bois-intermediaire-long-boite"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "bois-confirme-court-sous-verre"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "bois-confirme-moyen-mini-etagere"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bois",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "bois-confirme-long-boite-coulissante"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "dessin-debutant-court-contours"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "dessin-debutant-moyen-nature-morte"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "dessin-debutant-long-paysage"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "dessin-intermediaire-court-gestes"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "dessin-intermediaire-moyen-animal"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "dessin-intermediaire-long-perspective"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "dessin-confirme-court-hachures"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "dessin-confirme-moyen-visage"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "dessin",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "dessin-confirme-long-rue"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "peinture",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "pot-peint"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "peinture",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "peinture",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "marque-page-origami"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "origami",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "origami-grue"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "origami",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "origami",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "tech-scrapbooking-matage"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "scrapbooking",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "bijoux-debutant-court-bracelet-elastique"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "bijoux-debutant-moyen-porte-cle"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "bijoux-debutant-long-bracelet-metier"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "bijoux-intermediaire-court-bague-fil-memoire"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "bijoux-intermediaire-moyen-boucles"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "bijoux-intermediaire-long-broderie-perles"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "bijoux-confirme-court-boucle-fil"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "bijoux-confirme-moyen-pendentif-fil"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "bijoux",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "bijoux-confirme-long-bracelet-motif"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "modelage-debutant-court-texture"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "modelage-debutant-moyen-petit-pot"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "modelage-debutant-long-coupelle"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "modelage-intermediaire-court-perles"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "modelage-intermediaire-moyen-photophore-led"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "modelage-intermediaire-long-relief"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "modelage-confirme-court-sgraffito"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "modelage-confirme-moyen-figurine"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "modelage",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "modelage-confirme-long-relief-cadre"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "macrame-debutant-court-porte-cle"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "macrame-debutant-moyen-suspension-pot"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "macrame-debutant-long-panneau"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "macrame-intermediaire-court-plume"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "macrame-intermediaire-moyen-cercle"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "macrame-intermediaire-long-suspension"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "macrame-confirme-court-echantillon"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "macrame-confirme-moyen-filet-bouteille"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "macrame",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "macrame-confirme-long-panneau"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "resine",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "resine",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "mini-jardin"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jardinage",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "cuisine_creative",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "renard-rouleau"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "recyclage",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "jeux",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "jeux-debutant-court-tangram"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "jeux-debutant-moyen-memory"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "jeux-debutant-long-course"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "jeux-intermediaire-court-domino"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "jeux-intermediaire-moyen-quatre-rangee"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "jeux-intermediaire-long-labyrinthe"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "jeux-confirme-court-des-cartes"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "jeux-confirme-moyen-jeu-hex"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "jeux",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "jeux-confirme-long-jeu-cooperatif"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "deco-debutant-court-etoile"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "deco-debutant-moyen-centre-table"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "deco-debutant-long-couronne"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "deco-intermediaire-court-rosace"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "deco-intermediaire-moyen-chemin-table"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "deco-intermediaire-long-boite-ombre"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "deco-confirme-court-geometrie"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "deco-confirme-moyen-cadre-miroir"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "decoration",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "deco-confirme-long-mobile"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "textile",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "pompon-classique",
+        "tech-tricotin-doigt",
+        "tech-pompon"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "textile",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "textile",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "mosaique-debutant-court-motif-papier"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "mosaique-debutant-moyen-dessous-verre"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "mosaique-debutant-long-panneau"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "mosaique-intermediaire-court-porte-photo"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "mosaique-intermediaire-moyen-cadre"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "mosaique-intermediaire-long-tableau"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "mosaique-confirme-court-motif-rayons"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "mosaique-confirme-moyen-trivet"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "mosaique",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "mosaique-confirme-long-panneau"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "photo-debutant-court-triptyque"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "photo-debutant-moyen-nature-morte"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "photo-debutant-long-histoire-visuelle"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "photo-intermediaire-court-reflets"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "photo-intermediaire-moyen-mini-studio"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "photo-intermediaire-long-sequence-mouvement"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "photo-confirme-court-exposition"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "photo-confirme-moyen-macro-textures"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "photographie",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "photo-confirme-long-livre-photo"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "astro-debutant-court-carnet-lune"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "astro-debutant-moyen-roue-lune"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "astro-debutant-long-mobile-planetes"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "astro-intermediaire-court-cartes-echelle"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "astro-intermediaire-moyen-journal-ciel"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "astro-intermediaire-long-model-lune"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [
+        "astro-confirme-court-carte-constellation"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [
+        "astro-confirme-moyen-projecteur-constellation"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "astronomie",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [
+        "astro-confirme-long-atlas-personnel"
+      ],
+      "status": "complete"
+    },
+    {
+      "family_id": "echecs",
+      "level": "débutant",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "débutant",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "débutant",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "intermédiaire",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "intermédiaire",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "intermédiaire",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "confirmé",
+      "duration_id": "under_30",
+      "duration_label": "moins de 30 min",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "confirmé",
+      "duration_id": "to_60",
+      "duration_label": "30 min à 1 h",
+      "creation_ids": [],
+      "status": "empty"
+    },
+    {
+      "family_id": "echecs",
+      "level": "confirmé",
+      "duration_id": "over_60",
+      "duration_label": "plus d'1 h",
+      "creation_ids": [],
+      "status": "empty"
+    }
+  ]
+}

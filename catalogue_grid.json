@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "scope": "Mundial; loisirs créatifs uniquement",
+  "levels": ["débutant", "intermédiaire", "confirmé"],
+  "durations": [
+    {"id": "under_30", "label": "moins de 30 min", "min_minutes": 1, "max_minutes": 29},
+    {"id": "to_60", "label": "30 min à 1 h", "min_minutes": 30, "max_minutes": 60},
+    {"id": "over_60", "label": "plus d'1 h", "min_minutes": 61, "max_minutes": null}
+  ],
+  "coverage_rule": "Une fiche au minimum par combinaison famille × niveau × durée; soit 9 fiches minimum par famille.",
+  "minimum_creations_per_family": 5,
+  "families": [
+    {"id":"couture","label":"Couture loisir"},
+    {"id":"crochet","label":"Crochet"},
+    {"id":"tricot","label":"Tricot"},
+    {"id":"broderie","label":"Broderie"},
+    {"id":"papier","label":"Papier et cartonnage"},
+    {"id":"bois","label":"Bois et assemblage créatif"},
+    {"id":"dessin","label":"Dessin et illustration"},
+    {"id":"peinture","label":"Peinture et décors"},
+    {"id":"origami","label":"Origami et pliage"},
+    {"id":"scrapbooking","label":"Scrapbooking et journaling"},
+    {"id":"bijoux","label":"Bijoux et perles"},
+    {"id":"modelage","label":"Modelage et pâte créative"},
+    {"id":"macrame","label":"Macramé et nœuds décoratifs"},
+    {"id":"resine","label":"Résine et inclusion"},
+    {"id":"jardinage","label":"Jardinage créatif"},
+    {"id":"cuisine_creative","label":"Cuisine créative de loisir"},
+    {"id":"recyclage","label":"Récupération et détournement d'objets"},
+    {"id":"jeux","label":"Jeux et objets ludiques faits main"},
+    {"id":"decoration","label":"Décoration et loisirs saisonniers"},
+    {"id":"textile","label":"Teinture, feutrage et arts textiles"},
+    {"id":"mosaique","label":"Mosaïque et assemblage décoratif"},
+    {"id":"photographie","label":"Photographie créative et mise en scène"},
+    {"id":"astronomie","label":"Astronomie amateur créative"},
+    {"id":"echecs","label":"Échecs loisir et créations autour du jeu"}
+  ],
+  "grid": "Le produit cartésien families × levels × durations constitue la grille à remplir. Chaque cellule doit référencer au moins une fiche complète."
+}
