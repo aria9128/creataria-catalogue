@@ -3,7 +3,7 @@
   "manifest_version": 1,
   "catalog_version": "0.1.0",
   "catalog_file": "creations.json",
-  "catalog_sha256": "ef5fc006d41361aee34da0a0c790be49d998505f5deec4559e9a09e8c5176f76",
+  "catalog_sha256": "e48f6fb056d477e9ccdc66b0b62e488cbc70e0e0fc73ebecd0ef4589887a801c",
   "catalog_scope": "worldwide",
   "language": "fr"
 }
