@@ -3,36 +3,33 @@
   "family_count": 24,
   "cells_total": 216,
   "cells_filled": 216,
-  "cells_empty": 0,
-  "percentage": 100.0,
   "minimum_creations_per_family": 5,
   "family_counts": {
-    "couture": 11,
+    "couture": 12,
     "crochet": 9,
     "tricot": 9,
     "broderie": 9,
-    "papier": 9,
-    "bois": 9,
+    "papier": 10,
+    "bois": 10,
     "dessin": 9,
     "peinture": 9,
     "origami": 9,
     "scrapbooking": 9,
-    "bijoux": 9,
-    "modelage": 9,
-    "macrame": 9,
+    "bijoux": 10,
+    "modelage": 10,
+    "macrame": 10,
     "resine": 9,
-    "jardinage": 9,
+    "jardinage": 10,
     "cuisine_creative": 9,
     "recyclage": 9,
     "jeux": 9,
-    "decoration": 9,
+    "decoration": 11,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
-    "astronomie": 9,
+    "astronomie": 11,
     "echecs": 9
   },
-  "families_below_minimum": [],
   "cells": [
     {
       "family_id": "couture",
@@ -82,7 +79,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "sachet-couture"
+        "sachet-couture",
+        "robot-couture-ac22645aad7c4c"
       ],
       "status": "complete"
     },
@@ -462,7 +460,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "papier-confirme-court-quilling"
+        "papier-confirme-court-quilling",
+        "robot-papier-0cf2921da41ac8"
       ],
       "status": "complete"
     },
@@ -492,7 +491,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "bois-debutant-court-support-photo"
+        "bois-debutant-court-support-photo",
+        "robot-bois-058b27e188c1c2"
       ],
       "status": "complete"
     },
@@ -952,7 +952,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "bijoux-debutant-moyen-porte-cle"
+        "bijoux-debutant-moyen-porte-cle",
+        "robot-bijoux-03e781f1639d5f"
       ],
       "status": "complete"
     },
@@ -1092,7 +1093,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "modelage-confirme-court-sgraffito"
+        "modelage-confirme-court-sgraffito",
+        "robot-modelage-09b992aa12d9f0"
       ],
       "status": "complete"
     },
@@ -1202,7 +1204,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "macrame-confirme-long-panneau"
+        "macrame-confirme-long-panneau",
+        "robot-macrame-046f5c024344a7"
       ],
       "status": "complete"
     },
@@ -1302,7 +1305,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "jardinage-débutant-under_30-1"
+        "jardinage-débutant-under_30-1",
+        "robot-jardinage-ee25f8d5b1614d"
       ],
       "status": "complete"
     },
@@ -1662,7 +1666,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "deco-debutant-court-etoile"
+        "deco-debutant-court-etoile",
+        "robot-decoration-b80f8e193b2456"
       ],
       "status": "complete"
     },
@@ -1692,7 +1697,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "deco-intermediaire-court-rosace"
+        "deco-intermediaire-court-rosace",
+        "robot-decoration-3606add6bc247e"
       ],
       "status": "complete"
     },
@@ -2074,7 +2080,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "astro-intermediaire-long-model-lune"
+        "astro-intermediaire-long-model-lune",
+        "robot-astronomie-512f62ee92edba"
       ],
       "status": "complete"
     },
@@ -2094,7 +2101,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "astro-confirme-moyen-projecteur-constellation"
+        "astro-confirme-moyen-projecteur-constellation",
+        "robot-astronomie-b6a20f50bca715"
       ],
       "status": "complete"
     },
@@ -2198,5 +2206,8 @@
       ],
       "status": "complete"
     }
-  ]
+  ],
+  "cells_empty": 0,
+  "families_below_minimum": [],
+  "percentage": 100.0
 }

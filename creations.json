@@ -11205,6 +11205,732 @@
       ],
       "photo": "",
       "schematic": ""
+    },
+    {
+      "id": "robot-bijoux-03e781f1639d5f",
+      "family_id": "bijoux",
+      "kind": "project",
+      "category": "bijoux",
+      "title": "Porte-clés tressé avec perles alphabet — variation : アクセサリーも焼き菓子も、２７００ブースが並ぶハンドメイド市 - カナロコ",
+      "tags": [
+        "bijoux",
+        "perles",
+        "porte-clés",
+        "cadeau",
+        "inspiration en ligne",
+        "アクセサリーも焼き菓子も、２７００ブースが並ぶハンドメイド市 - カナロコ"
+      ],
+      "minutes": 40,
+      "level": "Débutant",
+      "time": "40 min",
+      "age": "Dès 9 ans",
+      "materials": [
+        "Cordon polyester de 1 mm : 2 brins de 300 mm",
+        "Perles alphabet percées : 6",
+        "Perles rondes de 8 mm : 4",
+        "Anneau porte-clés : 1",
+        "Ruban adhésif : 50 mm"
+      ],
+      "steps": [
+        "Plier les deux cordons en leur milieu et passer les quatre extrémités dans l'anneau.",
+        "Fixer l'anneau à la table avec le ruban et séparer les quatre brins.",
+        "Enfiler les six lettres sur deux brins centraux pour écrire un mot court.",
+        "Tresser les quatre brins sur 60 mm sous les lettres en gardant les perles rondes comme séparateurs.",
+        "Faire un nœud plat serré à 20 mm de la dernière perle.",
+        "Égaliser les quatre extrémités et vérifier que chaque perle est retenue par le nœud.",
+        "Variation décorative facultative : reprendre le thème « アクセサリーも焼き菓子も、２７００ブースが並ぶハンドメイド市 - カナロコ » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Choisir des perles dont le trou correspond au cordon; un test avec une perle évite de devoir tout défaire. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Deux cordons de 300 mm pliés sur un anneau; tresse de 60 mm; 6 perles lettres et 4 perles rondes.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 60,
+          "height_mm": 12,
+          "label": "Zone de tressage — 60 mm"
+        },
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 20,
+          "diameter_mm": 8,
+          "label": "Perle ronde Ø 8 mm — utiliser 4"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "アクセサリーも焼き菓子も、２７００ブースが並ぶハンドメイド市 - カナロコ",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pMXRTYjJCc3NwdF9aSENiSnN2bXppelZic0E0U29nWnZJZWpacVdkSG02ODNVTnE3YmphVk5aYlZoY0tpNVpDSGxrYVFFbkFFMzI2d3l6Z3c1RU5TemJaWnZKY19jM3dsSjNwVjN0TVI?oc=5",
+        "publisher": "カナロコ",
+        "published_at": "2026-11-19T20:04:12+00:00",
+        "discovered_at": "2026-11-20T06:20:28.158761+00:00",
+        "locale": "ja-JP",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-jardinage-ee25f8d5b1614d",
+      "family_id": "jardinage",
+      "kind": "project",
+      "category": "jardinage",
+      "title": "Étiquette de semis illustrée — variation : [ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les rése",
+      "tags": [
+        "jardinage",
+        "étiquette de semis illustrée",
+        "inspiration en ligne",
+        "[ exclu ] l’image prix des enseignes de bricolage-jardinage sur les rése"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 12 ans; adapter les outils à l’âge et respecter les consignes des matériaux.",
+      "materials": [
+        "Contenant percé : 1, environ 100 × 70 mm",
+        "Substrat : 1 L",
+        "Gravier drainant : 200 ml",
+        "Plants : 1 à 3"
+      ],
+      "steps": [
+        "Tracer une zone de 70 × 15 mm sur un bâtonnet de 150 mm; peindre une feuille simple; écrire le nom de la plante au crayon gras; sécher puis planter à 30 mm.",
+        "Mesurer et tracer le patron principal de 100 × 70 mm à l’échelle 1:1; marquer tous les repères au crayon et vérifier les dimensions.",
+        "Faire un essai à blanc ou sur une chute; corriger l’alignement avant la coupe, le pliage, la couture ou le collage définitif.",
+        "Réaliser l’assemblage progressivement en contrôlant les mesures après chaque opération; respecter les temps de séchage ou de fixation indiqués sur les matériaux.",
+        "Égaliser les bords, rentrer les fils ou fixer les attaches, nettoyer la surface et vérifier la solidité avant usage.",
+        "Variation décorative facultative : reprendre le thème « [ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les rése » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Choisir une espèce adaptée à la lumière et au climat; conserver les trous de drainage dégagés. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Patron principal 100 × 70 mm à l’échelle 1:1; reporter les repères cotés décrits dans les étapes.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 70,
+          "label": "Patron 1:1 100 × 70 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "[ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les réseaux sociaux - Olivier Dauvers",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkkzT0I0bXNNQXB2akZoamF6UXAzaTlla2NtdzRON2FvMjNYVHVHWlFtQUM4cEJadXFSS1dhbTF5cU5GdDBMNEZaUTlEMHJoTmtENVpoMEFSX0tIOFF1TTNNdkZ4ckp2Tkpxa0g4b1pQckcwRUVyd015VU5nTUhYeFpVM0JIU1N3RnhZSVBEMUNLVEYyZ3ptcTdiOC1lR05YOWkxUFdJZld5QkVieHZUdjVrUVZUeEJJNlYxUw?oc=5",
+        "publisher": "Olivier Dauvers",
+        "published_at": "2026-11-19T18:59:46+00:00",
+        "discovered_at": "2026-11-20T06:20:28.159050+00:00",
+        "locale": "fr-FR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-papier-0cf2921da41ac8",
+      "family_id": "papier",
+      "kind": "project",
+      "category": "papier",
+      "title": "Fleur en spirales de papier roulé — variation : Adornos de Navidad con Rollos de Papel Higiénico ♻️ | Manualidades Navid",
+      "tags": [
+        "papier",
+        "quilling",
+        "spirale",
+        "fleur",
+        "inspiration en ligne",
+        "adornos de navidad con rollos de papel higiénico ♻️ | manualidades navid"
+      ],
+      "minutes": 25,
+      "level": "Confirmé",
+      "time": "25 min",
+      "age": "Dès 12 ans",
+      "materials": [
+        "Bandes quilling : 6 de 3 × 300 mm",
+        "Carton support : 100 × 100 mm",
+        "Colle blanche : 2 ml",
+        "Outil à quilling : 1"
+      ],
+      "steps": [
+        "Enrouler chaque bande de 300 mm sur l'outil sans serrer.",
+        "Relâcher chaque spirale dans un gabarit de 12 mm et coller son extrémité.",
+        "Pincer quatre spirales d'un côté pour former des gouttes; pincer les deux autres aux deux extrémités.",
+        "Tracer un cercle guide de 60 mm au centre du support.",
+        "Disposer les six éléments en fleur dans le cercle et coller avec une petite goutte.",
+        "Laisser sécher à plat quinze minutes.",
+        "Variation décorative facultative : reprendre le thème « Adornos de Navidad con Rollos de Papel Higiénico ♻️ | Manualidades Navid » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Utiliser le même gabarit pour les six spirales afin d'obtenir une fleur symétrique. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Support 100 × 100 mm; guide de composition Ø 60 mm; 6 bandes de 3 × 300 mm; spirales Ø 12 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 100,
+          "label": "Support carré"
+        },
+        {
+          "type": "circle",
+          "x_mm": 20,
+          "y_mm": 20,
+          "diameter_mm": 60,
+          "label": "Guide de composition Ø 60 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Adornos de Navidad con Rollos de Papel Higiénico ♻️ | Manualidades Navideñas con Reciclaje - EL PAÍS Uruguay",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNUSWlhUUh6UWh0SjNzV0dWNjVfLWh0dFJHLUlHUlFONGtROGJ4NDctMmN0V2dsT2gzNmx0b05tZUhtSHg4ZHk5b0RuMmNGNmlMcEdQcTNxMndkNEgyOHE3YUQ0SlRTM0piSXhhYk5ZbHFWQlc0MU1IX0lQMnVuR1VMTXZjNGdqd1NXQUx6Rlk4LTBXWTdWOW1OVFBZTFFDWmR3c2dXS0I4SkNBY05QQw?oc=5",
+        "publisher": "EL PAÍS Uruguay",
+        "published_at": "2026-11-19T18:51:16+00:00",
+        "discovered_at": "2026-11-20T06:20:28.159205+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-couture-ac22645aad7c4c",
+      "kind": "project",
+      "category": "couture",
+      "title": "Petit sachet cadeau doublé — variation : A Philly Designer Created a Sew-Your-Own Mastectomy Bra Kit - Philadelph",
+      "tags": [
+        "couture",
+        "tissu",
+        "cadeau",
+        "sachet",
+        "débutant",
+        "inspiration en ligne",
+        "a philly designer created a sew-your-own mastectomy bra kit - philadelph"
+      ],
+      "minutes": 60,
+      "level": "Intermédiaire",
+      "time": "1 h",
+      "age": "Dès 12 ans, avec supervision de la machine",
+      "materials": [
+        "Tissu extérieur : 2 rectangles de 14 × 18 cm",
+        "Tissu doublure : 2 rectangles de 14 × 18 cm",
+        "Ruban : 45 cm",
+        "Fil assorti : 2 m",
+        "Épingles : 6"
+      ],
+      "steps": [
+        "Placer les deux rectangles extérieurs endroit contre endroit; coudre les côtés et le fond à 1 cm du bord, en laissant le haut ouvert.",
+        "Répéter avec la doublure mais laisser une ouverture de 5 cm au milieu d'une couture latérale.",
+        "Placer la doublure dans le tissu extérieur, endroit contre endroit; aligner les coutures latérales.",
+        "Coudre tout le bord supérieur à 1 cm du bord.",
+        "Retourner l'ouvrage par l'ouverture de la doublure; refermer celle-ci avec un point invisible ou une couture près du bord.",
+        "Rentrer la doublure dans le sachet, repasser le bord supérieur et nouer le ruban autour du sachet.",
+        "Variation décorative facultative : reprendre le thème « A Philly Designer Created a Sew-Your-Own Mastectomy Bra Kit - Philadelph » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Repasser les marges de couture ouvertes avant d'assembler la doublure donne un résultat plus net. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "4 rectangles de 14 × 18 cm; marge de couture de 1 cm incluse. Sachet fini environ 12 × 16 cm.",
+      "photo": "",
+      "family_id": "couture",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 140,
+          "height_mm": 180,
+          "label": "Rectangle extérieur ×2 140 × 180 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 150,
+          "y_mm": 0,
+          "width_mm": 140,
+          "height_mm": 180,
+          "label": "Doublure ×2 140 × 180 mm"
+        }
+      ],
+      "source": {
+        "title": "A Philly Designer Created a Sew-Your-Own Mastectomy Bra Kit - Philadelphia Magazine",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0waEN3cU1yakJzNXVydV96NHhWMkxfYmMxNlZUVjE5TE1qODMxaFV6VFg4OW5qMVFYRWpFREZJd19pbDJUOWVDUkdFXzFXdHV2bjV6N0tjNXZzR0VLWkFrR3U4VnNqc2VscWRuS09JYkg0Q0NtMGFMMEpSdw?oc=5",
+        "publisher": "Philadelphia Magazine",
+        "published_at": "2026-11-19T18:40:16+00:00",
+        "discovered_at": "2026-11-20T06:20:28.159369+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-058b27e188c1c2",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Support photo en pince à linge et bois — variation : DIY transforming wooden furniture with a bold bull head design - Yahoo",
+      "tags": [
+        "bois",
+        "photo",
+        "pince",
+        "débutant",
+        "inspiration en ligne",
+        "diy transforming wooden furniture with a bold bull head design - yahoo"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 7 ans; colle chaude sous supervision adulte",
+      "materials": [
+        "Pince à linge en bois : 1",
+        "Petit bloc de bois poncé : 50 × 30 × 15 mm",
+        "Colle à bois : 2 ml",
+        "Peinture acrylique : 5 ml (facultatif)"
+      ],
+      "steps": [
+        "Vérifier que le bloc est poncé et sans écharde.",
+        "Décorer le bloc à la peinture et laisser sécher si nécessaire.",
+        "Déposer une fine ligne de colle à bois sur le côté plat de la pince.",
+        "Coller la pince debout au centre du bloc, ouverture vers le haut.",
+        "Laisser sécher selon l'emballage de la colle, puis glisser une photo dans la pince.",
+        "Variation décorative facultative : reprendre le thème « DIY transforming wooden furniture with a bold bull head design - Yahoo » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Ne pas mettre de colle dans le mécanisme de la pince; une photo légère tient mieux qu'un carton épais. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Bloc support 50 × 30 × 15 mm; pince à linge standard environ 72 × 10 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 50,
+          "height_mm": 30,
+          "label": "Bloc support — 1 pièce"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 65,
+          "y_mm": 0,
+          "width_mm": 72,
+          "height_mm": 10,
+          "label": "Pince — repère d'encombrement"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "DIY transforming wooden furniture with a bold bull head design - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEsxdjhQekEwV3pqdU1nSEhVY3BhLTRmajcxNnFsRUFRSXA2Q3RJZFJTU0JTMmJhWXFBVXk2aWhtdVFUa1JEb1FHZmo1WTBiTk95UENVQmhJb0FFSDVuaGVMaUx1T2JxU3VsR3Ezb2xwUkFVdlhmLVlVS1hkN1JBR2tPZ0JoOEVfaHljMzFZSXV3MFgzWGhR?oc=5",
+        "publisher": "Yahoo",
+        "published_at": "2026-11-19T18:30:00+00:00",
+        "discovered_at": "2026-11-20T06:20:28.159486+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-macrame-046f5c024344a7",
+      "family_id": "macrame",
+      "kind": "project",
+      "category": "macrame",
+      "title": "Grand panneau mural à losanges et franges — variation : Curso gratuito em Várzea Grande abre vagas para mulheres aprenderem macr",
+      "tags": [
+        "macramé",
+        "panneau mural",
+        "losanges",
+        "décoration",
+        "inspiration en ligne",
+        "curso gratuito em várzea grande abre vagas para mulheres aprenderem macr"
+      ],
+      "minutes": 135,
+      "level": "Confirmé",
+      "time": "2 h 15",
+      "age": "Dès 16 ans",
+      "materials": [
+        "Baguette bois lisse : 400 mm",
+        "Cordon coton 4 mm : 20 brins de 1800 mm",
+        "Cordon suspension : 500 mm",
+        "Ciseaux : 1 paire",
+        "Mètre ruban : 1"
+      ],
+      "steps": [
+        "Fixer les vingt cordons pliés sur la baguette et répartir les quarante brins en groupes de quatre.",
+        "Réaliser un rang de nœuds plats sur 80 mm de largeur.",
+        "Décaler les groupes à chaque rang et nouer les brins porteurs en diagonales pour former trois losanges.",
+        "Terminer les losanges par un rang horizontal de nœuds plats et égaliser la tension.",
+        "Attacher le cordon de suspension aux extrémités de la baguette par des nœuds solides.",
+        "Peigner les franges et tailler un bord en V avec une profondeur maximale de 180 mm.",
+        "Variation décorative facultative : reprendre le thème « Curso gratuito em Várzea Grande abre vagas para mulheres aprenderem macr » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Photographier ou dessiner la disposition après chaque rang aide à garder le motif symétrique. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Baguette 400 mm; 20 cordons de 1800 mm pliés; panneau noué 360 × 260 mm; franges jusqu'à 180 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 400,
+          "height_mm": 260,
+          "label": "Panneau noué — baguette 400 mm en haut"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 20,
+          "y_mm": 260,
+          "width_mm": 360,
+          "height_mm": 180,
+          "label": "Zone maximale des franges taillées en V"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Curso gratuito em Várzea Grande abre vagas para mulheres aprenderem macramê e gerar renda com artesanato - Olhar Direto",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEp6TlNxRkxqendvWGtFclA4WkVyWXVSTEdzdDdDa29MWmEtU1c0NlFRU3JqaEVMdmJwazYwZlJQX2V0RGdEZXlOMHBUcFEwaUpBNmdQaHl6akNoRUItTGtPNVcwa0xPeExqTk9Ud3FlMGVtVExZQUs2YkZZYXR4ay1TRVJwX0VOQzl2ektHZjcyaEpZY053TWZZT1Jtckx0Ykdua0FjM1lrSi10NWZHcVZqZTEzS3BvZldWaWVFZ0VLdlVfUDNxVUFvM013QXNuZmRCLVpxdjZTLUJ2dEVFMkoxajZRNlFt?oc=5",
+        "publisher": "Olhar Direto",
+        "published_at": "2026-11-19T15:41:00+00:00",
+        "discovered_at": "2026-11-20T06:20:28.160608+00:00",
+        "locale": "pt-BR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-512f62ee92edba",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Maquette Terre-Lune pour visualiser les phases — variation : Un mercado navideño en una casa de campo de Madrid: artesanía, marcas em",
+      "tags": [
+        "astronomie",
+        "Terre",
+        "Lune",
+        "maquette",
+        "inspiration en ligne",
+        "un mercado navideño en una casa de campo de madrid: artesanía, marcas em"
+      ],
+      "minutes": 95,
+      "level": "Intermédiaire",
+      "time": "1 h 35",
+      "age": "Dès 12 ans; LED basse tension",
+      "materials": [
+        "Carton base : 300 × 200 mm",
+        "Boule légère de 30 mm : 1",
+        "Boule de 100 mm : 1",
+        "Tige bois : 250 mm",
+        "Lampe LED froide : 1",
+        "Peinture : 3 couleurs",
+        "Pâte adhésive : 1 morceau"
+      ],
+      "steps": [
+        "Fixer la boule de 100 mm sur la base pour représenter la Terre et la boule de 30 mm sur la tige comme Lune.",
+        "Placer une LED froide à environ 250 mm de la Terre pour représenter le Soleil; ne pas utiliser de flamme.",
+        "Dans une pièce assombrie, tenir la maquette de Lune à hauteur de la Terre et la déplacer autour d'elle.",
+        "Observer la partie éclairée depuis la position de la Terre à huit positions de la Lune.",
+        "Dessiner sur la base les huit apparences observées et leur position orbitale.",
+        "Écrire que la maquette n'est pas à l'échelle des diamètres ni des distances.",
+        "Variation décorative facultative : reprendre le thème « Un mercado navideño en una casa de campo de Madrid: artesanía, marcas em » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "La phase vient de la portion éclairée visible depuis la Terre; ne pas confondre avec l'ombre de la Terre. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Base 300 × 200 mm; Terre Ø 100 mm; Lune Ø 30 mm; tige 250 mm; distance de démonstration 250 mm, non à l'échelle réelle.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 300,
+          "height_mm": 200,
+          "label": "Base de démonstration"
+        },
+        {
+          "type": "circle",
+          "x_mm": 100,
+          "y_mm": 50,
+          "diameter_mm": 100,
+          "label": "Terre — maquette Ø 100 mm"
+        },
+        {
+          "type": "circle",
+          "x_mm": 230,
+          "y_mm": 85,
+          "diameter_mm": 30,
+          "label": "Lune — maquette Ø 30 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Un mercado navideño en una casa de campo de Madrid: artesanía, marcas emergentes y gastronomía para disfrutar en familia este fin de semana - El Periódico de España",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3B6OHFHdVdfU1h0N3BfVVI1OHZ6ZWFiOG94anAtS21RMW9iY1RTSTJtQll2M1lQOU5nTC1TOEFNZ3Mwa3VlZXFlNlNlUVlLYUV5UDRVQ2t5UWZ5VnRUWGJ3bVdrWmVVMFlJZnNfd21KZkI3N2dSNVk2Y3pLX09WQUdNMVBtcWFCUWxDeG9iRDYyY0c3aGUyc1Btazc5LXo0d2xabXJ3ZTZvRU5QM2xHeDF2eWluZXE1bHI5ZzRWNXdmeU1TUmZKOEtqVdIBywFBVV95cUxPcTFpRXlwUjlrYWo1ekJWWlYzV1JFQTlxTWl2cWtfVFpMV0ZKYlhxU05qeFVISzRzNlBGc2tmWlJoSi1pc0lZaTRvQmdDamJsZHZELWVaMHBjcXVpMGNBVFRfMVE1YXd1VHI5ckJja0FvZ0hlblFPdjRaanZBVUxCck9sUXptX2lSS2U4Wm93SVRYNFcxOUY3QjdLbjZUT0UtR3VZN2ZicnFRUXJQX1Q2MlVQbGp6M283MEctZDlYUnRDM2xWZE1ISndqVQ?oc=5",
+        "publisher": "El Periódico de España",
+        "published_at": "2026-11-19T09:57:47+00:00",
+        "discovered_at": "2026-11-20T06:20:28.162181+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-b80f8e193b2456",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Étoile décorative suspendue en papier — variation : ツリー",
+      "tags": [
+        "décoration",
+        "papier",
+        "étoile",
+        "suspension",
+        "inspiration en ligne",
+        "ツリー"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 7 ans",
+      "materials": [
+        "Papier cartonné : 1 carré de 150 × 150 mm",
+        "Fil coton : 200 mm",
+        "Colle : 2 ml",
+        "Crayon : 1",
+        "Ciseaux : 1 paire"
+      ],
+      "steps": [
+        "Tracer une étoile à cinq branches de 120 mm de diamètre dans le carré.",
+        "Découper l'étoile en suivant le contour.",
+        "Marquer un pli léger entre chaque pointe et creux pour donner du volume.",
+        "Percer un trou de 3 mm dans une pointe à 8 mm du bord.",
+        "Passer le fil et nouer une boucle de suspension.",
+        "Ouvrir les plis avec douceur pour que l'étoile garde son volume.",
+        "Variation décorative facultative : reprendre le thème « ツリー » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Utiliser un papier assez épais pour que les branches ne retombent pas. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Carré papier 150 × 150 mm; étoile à cinq branches Ø 120 mm; trou Ø 3 mm à 8 mm d'une pointe.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 150,
+          "label": "Feuille support"
+        },
+        {
+          "type": "circle",
+          "x_mm": 15,
+          "y_mm": 15,
+          "diameter_mm": 120,
+          "label": "Diamètre maximal de l'étoile"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "サンタや雪だるまの飾りを外しちゃう？ダイソーのツリー形置き飾りでDIYするクリスマスインテリアに約3万5000回再生の反響 - Yahoo!ニュース",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tX2thTThZR1dMXzI3MHlOWFRrcGw0TlFBSmdLQ1ZkNHpZdVplaThCd3pzREhqakx3VnpvMkt1dy1VQjRwdzNQMDUwbVRNTXZwWjFJRUhyb2ZDdXRVeThhekhjYXhFTHJhWXdPTk56b1dfck1GMm9mUlRVNnhDMms?oc=5",
+        "publisher": "Yahoo!ニュース",
+        "published_at": "2026-11-18T03:15:54+00:00",
+        "discovered_at": "2026-11-20T06:20:28.165621+00:00",
+        "locale": "ja-JP",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-b6a20f50bca715",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Projecteur de constellation à LED — variation : La Fira del Moniato vuelve a Albal este fin de semana con gastronomía, a",
+      "tags": [
+        "astronomie",
+        "constellation",
+        "projecteur",
+        "carton",
+        "inspiration en ligne",
+        "la fira del moniato vuelve a albal este fin de semana con gastronomía, a"
+      ],
+      "minutes": 55,
+      "level": "Confirmé",
+      "time": "55 min",
+      "age": "Dès 14 ans; LED basse tension uniquement",
+      "materials": [
+        "Tube carton : Ø 50 × 120 mm",
+        "Carton noir fin : 1 rectangle de 60 × 60 mm",
+        "Ruban adhésif opaque : 1 rouleau",
+        "LED à pile froide : 1",
+        "Poinçon émoussé : 1",
+        "Papier calque : 1 disque Ø 50 mm"
+      ],
+      "steps": [
+        "Tracer sur le carton noir un disque de 50 mm de diamètre et le découper.",
+        "Choisir un petit motif de constellation adapté au lieu et reporter ses points sur le disque.",
+        "Percer les points avec un poinçon émoussé en plaçant le carton sur un support protecteur.",
+        "Fixer le disque sur une extrémité du tube avec le ruban opaque.",
+        "Placer le papier calque à l'autre extrémité comme diffuseur et positionner la LED à pile derrière le tube.",
+        "Projeter sur un mur proche dans une pièce sombre; ne jamais diriger la lumière vers les yeux.",
+        "Variation décorative facultative : reprendre le thème « La Fira del Moniato vuelve a Albal este fin de semana con gastronomía, a » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Utiliser une LED froide à pile; ne jamais employer de bougie, de laser ou de lampe qui chauffe. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Tube Ø 50 × 120 mm; disque masque Ø 50 mm; trous de constellation dans un diamètre utile de 40 mm.",
+      "pattern_shapes": [
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "diameter_mm": 50,
+          "label": "Masque perforé Ø 50 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 60,
+          "y_mm": 0,
+          "width_mm": 120,
+          "height_mm": 50,
+          "label": "Tube — longueur 120 mm, diamètre 50 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "La Fira del Moniato vuelve a Albal este fin de semana con gastronomía, artesanía, música y actividades para todos los públicos - Valenciabonita",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MNGJTOGZBZE9uNE1QNUtEUVdVOXJnRVJnVndXMWhNN2cwTUtka1BIVFdDM1FJamhJZjVKVHF4Ujc1SlhMU3ZMWlJjRnNWMlhVV0RRa2Y3Q0lZRGI5eGloOThYdnNhQ2hqcEMwWWtDcVdOU0k?oc=5",
+        "publisher": "Valenciabonita",
+        "published_at": "2026-11-18T01:34:43+00:00",
+        "discovered_at": "2026-11-20T06:20:28.165915+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-3606add6bc247e",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Rosace de papier pour paquet cadeau — variation : coração",
+      "tags": [
+        "décoration",
+        "papier",
+        "rosace",
+        "cadeau",
+        "inspiration en ligne",
+        "coração"
+      ],
+      "minutes": 25,
+      "level": "Intermédiaire",
+      "time": "25 min",
+      "age": "Dès 9 ans",
+      "materials": [
+        "Papier décoratif : 2 bandes de 200 × 40 mm",
+        "Colle : 2 ml",
+        "Fil : 150 mm",
+        "Ciseaux : 1 paire",
+        "Règle : 1"
+      ],
+      "steps": [
+        "Plier chaque bande en accordéon avec des plis de 10 mm.",
+        "Coller les deux bandes bout à bout pour former une bande longue.",
+        "Coller les deux extrémités ensemble afin de former un anneau accordéon.",
+        "Aplatir l'anneau en rosace en poussant son centre vers la table.",
+        "Nouer le fil autour du centre ou coller un petit disque de papier de 20 mm sur chaque face.",
+        "Laisser sécher avant de fixer la rosace au paquet.",
+        "Variation décorative facultative : reprendre le thème « coração » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Maintenir le centre aplati pendant le séchage pour éviter que la rosace se rouvre. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "2 bandes 200 × 40 mm; plis tous les 10 mm; disque central Ø 20 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 200,
+          "height_mm": 40,
+          "label": "Bande plissée — couper 2"
+        },
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 50,
+          "diameter_mm": 20,
+          "label": "Disque de maintien — 2"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Decoração de Natal do Praça Shopping é produzida com 100% de artesanato local - Rio Grande TEM",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlRLdVBwemtseW1fS0tlZnBtMkI5TDhSa3NyQ2hHV0ctOWt3MEJVS3JYUkRBN3V3SXdSMmVua19aNV9qYk4xV0Y4d185bWk2MG1zRVpLMkJLaXJ6blNqVUhWalRqSHFWWUVHeUpWT1I5SGhUY2ExaVV6elAxQmt1MWZzVmZRNnd1aUxFYmhwWGxvNWUybEI5RnQwVEdWaV9DRnpfZ1dGc0k1d00zU0E?oc=5",
+        "publisher": "Rio Grande TEM",
+        "published_at": "2026-11-17T02:44:35+00:00",
+        "discovered_at": "2026-11-20T06:20:28.166881+00:00",
+        "locale": "pt-BR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-modelage-09b992aa12d9f0",
+      "family_id": "modelage",
+      "kind": "project",
+      "category": "modelage",
+      "title": "Tuile décorative gravée en sgraffito — variation : From Pipe Cleaners to Clay, Baskets Break Craft Traditions in ‘Interwove",
+      "tags": [
+        "modelage",
+        "argile",
+        "sgraffito",
+        "gravure",
+        "inspiration en ligne",
+        "from pipe cleaners to clay, baskets break craft traditions in ‘interwove"
+      ],
+      "minutes": 25,
+      "level": "Confirmé",
+      "time": "25 min + séchage",
+      "age": "Dès 14 ans; outils émoussés uniquement",
+      "materials": [
+        "Argile autodurcissante : 120 g",
+        "Engobe ou peinture acrylique à l'eau : 5 ml",
+        "Outil de gravure émoussé : 1",
+        "Rouleau : 1",
+        "Règle : 1"
+      ],
+      "steps": [
+        "Étaler l'argile à 6 mm et découper une tuile de 80 × 80 mm.",
+        "Appliquer une couche mince de couleur sur la surface et attendre qu'elle soit mate mais encore tendre.",
+        "Tracer un motif géométrique avec un outil émoussé en retirant seulement la couche colorée.",
+        "Nettoyer les miettes avec un pinceau sec sans humidifier la tuile.",
+        "Lisser les bords et poser la tuile bien à plat.",
+        "Laisser sécher complètement avant toute finition à l'eau.",
+        "Variation décorative facultative : reprendre le thème « From Pipe Cleaners to Clay, Baskets Break Craft Traditions in ‘Interwove » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Tester la profondeur de gravure sur une chute; ne pas utiliser de pointe coupante. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Tuile carrée 80 × 80 × 6 mm; motif à 8 mm des bords pour préserver une bordure solide.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 80,
+          "height_mm": 80,
+          "label": "Tuile — 1 pièce"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 8,
+          "y_mm": 8,
+          "width_mm": 64,
+          "height_mm": 64,
+          "label": "Zone de motif"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "From Pipe Cleaners to Clay, Baskets Break Craft Traditions in ‘Interwoven’ - Colossal",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNREVGeWdKV2lJNVVOMWlDSGxtU0dWbzFkbWM1Uzd1OURoVDBzMzBFeWQ5Si1Tdkw4Q3lielZXNXZfWlRWUkNfVmx2WnVjZmZzZWRSNUdQcjBEN2dWaTA2WVN1RjVPUTk4M1l5UFJTSEk3THlnNnNYd1JSU2ZFWXd4a3N5UmkwQnBYdHRWNFdJaXZqTHhPRVVDMGo4MDlNUQ?oc=5",
+        "publisher": "Colossal",
+        "published_at": "2026-11-16T15:32:05+00:00",
+        "discovered_at": "2026-11-20T06:20:28.167192+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
     }
   ]
 }
