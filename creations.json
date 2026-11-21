@@ -11931,6 +11931,569 @@
         "method": "Google News RSS; titre, lien et éditeur seulement"
       },
       "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-4b38b90f1f13b6",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Portfolio d'observation du ciel sur quatre semaines — variation : Miramar acoge su gran Fira de Sant Andreu con tres días de gastronomía,",
+      "tags": [
+        "astronomie",
+        "portfolio",
+        "observation",
+        "carnet",
+        "inspiration en ligne",
+        "miramar acoge su gran fira de sant andreu con tres días de gastronomía,"
+      ],
+      "minutes": 130,
+      "level": "Confirmé",
+      "time": "2 h 10 pour préparer le portfolio, observations réparties sur 4 semaines",
+      "age": "Dès 15 ans",
+      "materials": [
+        "Classeur A5 : 1",
+        "Fiches A5 : 12",
+        "Papier calque : 4 feuilles A5",
+        "Crayon HB : 1",
+        "Crayons de couleur : 6",
+        "Règle : 1",
+        "Pochettes transparentes : 4"
+      ],
+      "steps": [
+        "Préparer quatre fiches hebdomadaires avec les champs date, heure, lieu, météo et durée d'observation.",
+        "Tracer sur chaque fiche un cercle d'horizon de 100 mm et une rose des directions adaptée au lieu choisi.",
+        "Ajouter huit fiches d'objets observés avec un cadre de dessin de 80 × 100 mm.",
+        "Insérer un calque par semaine pour superposer les relevés et comparer les positions.",
+        "Lors des observations, noter uniquement ce qui est vu ou identifié avec une source fiable.",
+        "À la fin du mois, classer les fiches et écrire une courte synthèse des changements constatés.",
+        "Variation décorative facultative : reprendre le thème « Miramar acoge su gran Fira de Sant Andreu con tres días de gastronomía, » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Noter aussi les soirées nuageuses ou sans observation; cela évite de confondre absence de visibilité et absence d'un objet céleste. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Portfolio A5; 4 fiches hebdomadaires + 8 fiches d'objets; cadre 80 × 100 mm; horizon Ø 100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 148,
+          "height_mm": 210,
+          "label": "Fiche A5 — préparer 12"
+        },
+        {
+          "type": "circle",
+          "x_mm": 24,
+          "y_mm": 15,
+          "diameter_mm": 100,
+          "label": "Carte d'horizon Ø 100 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 15,
+          "y_mm": 125,
+          "width_mm": 80,
+          "height_mm": 65,
+          "label": "Cadre de dessin — 8 fiches objet"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Miramar acoge su gran Fira de Sant Andreu con tres días de gastronomía, artesanía, oficios, música, coches clásicos y espectáculos - Valenciabonita",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42WUNPSjdkNExrX0lPTnR4d3BCbWhOcnBiOEpqd0daaWg5VjJHMF9lTmFhMFdhWlFSSmZHd0ZzUjlMdEI4SzduSkpJYkYzdDdxaVRLUFlwWmRLSzRrVVNmTTFlcFV4eGtYQTJkVWt3MG1QMW9wbEhVRUFYVQ?oc=5",
+        "publisher": "Valenciabonita",
+        "published_at": "2026-11-20T23:31:53+00:00",
+        "discovered_at": "2026-11-21T06:10:19.778522+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-e5aa0dc7ef7bc2",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Étoile décorative suspendue en papier — variation : ツリー — variation : El mercadillo de Sevilla que ofrece este sábado artesanía, decoración y",
+      "tags": [
+        "décoration",
+        "papier",
+        "étoile",
+        "suspension",
+        "inspiration en ligne",
+        "ツリー",
+        "el mercadillo de sevilla que ofrece este sábado artesanía, decoración y"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 7 ans",
+      "materials": [
+        "Papier cartonné : 1 carré de 150 × 150 mm",
+        "Fil coton : 200 mm",
+        "Colle : 2 ml",
+        "Crayon : 1",
+        "Ciseaux : 1 paire"
+      ],
+      "steps": [
+        "Tracer une étoile à cinq branches de 120 mm de diamètre dans le carré.",
+        "Découper l'étoile en suivant le contour.",
+        "Marquer un pli léger entre chaque pointe et creux pour donner du volume.",
+        "Percer un trou de 3 mm dans une pointe à 8 mm du bord.",
+        "Passer le fil et nouer une boucle de suspension.",
+        "Ouvrir les plis avec douceur pour que l'étoile garde son volume.",
+        "Variation décorative facultative : reprendre le thème « ツリー » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche.",
+        "Variation décorative facultative : reprendre le thème « El mercadillo de Sevilla que ofrece este sábado artesanía, decoración y » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Utiliser un papier assez épais pour que les branches ne retombent pas. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Carré papier 150 × 150 mm; étoile à cinq branches Ø 120 mm; trou Ø 3 mm à 8 mm d'une pointe.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 150,
+          "label": "Feuille support"
+        },
+        {
+          "type": "circle",
+          "x_mm": 15,
+          "y_mm": 15,
+          "diameter_mm": 120,
+          "label": "Diamètre maximal de l'étoile"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "El mercadillo de Sevilla que ofrece este sábado artesanía, decoración y moda de diseño sin pagar una fortuna: horario, ubicación y todo lo que se podrá encontrar en este zoco - El Correo de Andalucía",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORFN5WVc0eEVJTGxESEJzRkE5bXJKQW1yaWJCSzctdXhNeVFaQ2JYbERiZ0Z0RkVoYTNLX3VNVWttU3lDWkVuN05JelZ2MGlJOU1hc1ZZeEZhN1J1NTRaNlpBLWY2Y1dlbUlJOG5QQ2ZuTTRVRXp4ZF9vcGlCNnRkeENTZjNFUHFHTEh5MVlTanBkcnVkNWtpcHhUY1gwM2VZSlNSMWpXdDZJM2I1eW94Z295WXZTQkZqYjA5RXhOWWJDMk1sLXZ6OGRrVC1oQUNxTWtrNzJwT0o3T2NWa3k1Um5fUjl5UlBEOVB4Y0JuX3BaNU1LeXp5R1FrUGtUUVHSAYQCQVVfeXFMTU96elZpVU5yYnFCdy1PVWdXTHZoMlAzRFg3TmpHNVVNVW9ZZU1NaS1jNU8tWWowMDhPdDNwREtOcTh5ZlBNODZ6ei1abVFpeFNIMW5BLWlHajZfS1ZsbzN1dXZjekV5bGs2UWVoMHdoSlZKVUJWTkZUZ3d4TEhjNmxPT1M4WDNWbndQUEtoTDdEbXp6VFFId0MyX3FMa3hwUV9mYllBak1KeUM5TlJSUHNBUElVdnR2N0VkMmpXVE91TFZKSjNVUWQyQTNQa29NNzNkV3QxUlpkbnNsUkhhclo1UXNOYWNtNGdTTDZveVA0NVUtOE45eWlwSnNmeUVkc3VlMEI?oc=5",
+        "publisher": "El Correo de Andalucía",
+        "published_at": "2026-11-20T22:59:14+00:00",
+        "discovered_at": "2026-11-21T06:10:19.778724+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-6b9ef638fe178b",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Roue d'observation des phases lunaires — variation : La Feria del Puerto presenta una oferta de artesanía, emprendedurismo y",
+      "tags": [
+        "astronomie",
+        "Lune",
+        "roue",
+        "papier",
+        "inspiration en ligne",
+        "la feria del puerto presenta una oferta de artesanía, emprendedurismo y"
+      ],
+      "minutes": 45,
+      "level": "Débutant",
+      "time": "45 min",
+      "age": "Dès 10 ans; attache parisienne à poser avec aide",
+      "materials": [
+        "Carton léger : 2 feuilles A4",
+        "Attache parisienne : 1",
+        "Crayon : 1",
+        "Compas : 1",
+        "Ciseaux : 1 paire"
+      ],
+      "steps": [
+        "Découper deux disques de 120 mm de diamètre.",
+        "Sur le disque inférieur, diviser le tour en huit secteurs et écrire huit positions d'observation, sans associer de date fixe.",
+        "Dans chaque secteur, dessiner un cercle de 25 mm et une forme d'éclairage différente comme support de comparaison.",
+        "Découper une fenêtre de 30 × 30 mm dans le disque supérieur.",
+        "Superposer les disques et fixer leur centre avec l'attache parisienne.",
+        "Tourner la roue pour comparer les dessins aux phases réellement observées depuis son lieu.",
+        "Variation décorative facultative : reprendre le thème « La Feria del Puerto presenta una oferta de artesanía, emprendedurismo y » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Cette roue sert à observer et comparer; elle ne prédit pas les phases à une date donnée. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Deux disques Ø 120 mm; huit secteurs; fenêtre 30 × 30 mm; axe central Ø 3 mm.",
+      "pattern_shapes": [
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "diameter_mm": 120,
+          "label": "Disque inférieur — 1 pièce"
+        },
+        {
+          "type": "circle",
+          "x_mm": 130,
+          "y_mm": 0,
+          "diameter_mm": 120,
+          "label": "Disque supérieur — 1 pièce"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 175,
+          "y_mm": 45,
+          "width_mm": 30,
+          "height_mm": 30,
+          "label": "Fenêtre — découper dans le disque supérieur"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "La Feria del Puerto presenta una oferta de artesanía, emprendedurismo y gastronomía - Municipalidad de Paraná",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGRYbHJISkF0RzdKVzZRdUo4WXBRUXc1ay1ZS05jbFV4dEpuWXFFdFlSaE9vYmtiTWcyVnozcVJKWVZyRmRMOXlnbGZBQlZSZWJxOXNXV1h3WGNHU0VQUnExc3Z1anA3Sk1CRGY5T1NHeWpOSDd6cGtjb2ExVUJxYjZlTFZVclJucWFWSk5CX2dOcUVOU0NTNXQwVGdUM0s5N3FXNWtXSlNndWY4ZlM3c2M2MFpLRW5G?oc=5",
+        "publisher": "Municipalidad de Paraná",
+        "published_at": "2026-11-20T20:55:55+00:00",
+        "discovered_at": "2026-11-21T06:10:19.779029+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-99829b31f01488",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Cadre de miroir décoré de motifs répétitifs — variation : coração",
+      "tags": [
+        "décoration",
+        "miroir",
+        "cadre",
+        "motif",
+        "inspiration en ligne",
+        "coração"
+      ],
+      "minutes": 55,
+      "level": "Confirmé",
+      "time": "55 min + séchage",
+      "age": "Dès 14 ans; miroir incassable recommandé",
+      "materials": [
+        "Miroir acrylique : 100 × 150 mm",
+        "Carton rigide : 180 × 230 mm",
+        "Papier décoratif : 2 feuilles A5",
+        "Colle adaptée : 5 ml",
+        "Règle : 1",
+        "Ciseaux : 1 paire"
+      ],
+      "steps": [
+        "Tracer une ouverture de 100 × 150 mm au centre du carton, avec une marge de cadre de 40 mm.",
+        "Découper l'ouverture en arrondissant légèrement les angles.",
+        "Découper des motifs répétés dans le papier décoratif et les coller sur la face du cadre.",
+        "Fixer le miroir acrylique au dos avec une colle compatible, en laissant le film protecteur jusqu'au séchage.",
+        "Coller au dos une bande de carton de 20 × 150 mm comme pied chevalet, en laissant une charnière souple de 10 mm.",
+        "Retirer le film protecteur et vérifier la stabilité du cadre sur une table.",
+        "Variation décorative facultative : reprendre le thème « coração » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Utiliser un miroir acrylique léger et une colle explicitement compatible avec ce matériau. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Cadre extérieur 180 × 230 mm; ouverture intérieure centrée 100 × 150 mm; marge 40 mm; pied 20 × 150 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 180,
+          "height_mm": 230,
+          "label": "Contour extérieur du cadre"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 40,
+          "y_mm": 40,
+          "width_mm": 100,
+          "height_mm": 150,
+          "label": "Ouverture miroir"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 240,
+          "width_mm": 20,
+          "height_mm": 150,
+          "label": "Pied chevalet"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Iguatemi Bosque apresenta decoração natalina inédita com valorização do artesanato cearense - Jornal do comércio do ceará",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaVdMMmZlN2VKQlozanJXTUZXZHg3eXRGbkR1WnlOUlRaZUdQbVd5M0lmQUw0VGVwUmRjdnNBVk96Z0tVV1R5SjdxelBZd2ZlcGJ5ZkJCTno4SkFobjBDZmxtMk1ZYmkxQklvZTBPOEVyOUJMMVRZOFBtWnNiMWRtQkRlVDd5Wl82RE1lWG5WaUZ6QlRGdG0waERkbmpCMkIzTGYya252TTBPMHdaSWIwOGZR?oc=5",
+        "publisher": "Jornal do comércio do ceará",
+        "published_at": "2026-11-20T20:09:03+00:00",
+        "discovered_at": "2026-11-21T06:10:19.779141+00:00",
+        "locale": "pt-BR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-peinture-eb8392fb4af9cf",
+      "family_id": "peinture",
+      "kind": "project",
+      "category": "peinture",
+      "title": "Boîte décorée en trompe-l'œil — variation : winter",
+      "tags": [
+        "peinture",
+        "boîte",
+        "trompe-l'œil",
+        "inspiration en ligne",
+        "winter"
+      ],
+      "minutes": 55,
+      "level": "Confirmé",
+      "time": "55 min + séchage",
+      "age": "Dès 16 ans",
+      "materials": [
+        "Boîte bois : 1, 120 × 80 × 50 mm",
+        "Gesso : 10 ml",
+        "Acrylique : 4 couleurs, 5 ml chacune",
+        "Pinceaux : 3",
+        "Vernis à l'eau compatible : 10 ml"
+      ],
+      "steps": [
+        "Poncer légèrement la boîte avec un abrasif fin et dépoussiérer.",
+        "Appliquer une couche de gesso et laisser sécher selon sa notice.",
+        "Tracer un cadre de 10 mm sur le couvercle et une petite zone d'ombre à 5 mm d'un côté.",
+        "Peindre un motif de livre empilé en respectant une source de lumière en haut à gauche.",
+        "Renforcer les ombres du côté opposé avec une teinte plus foncée.",
+        "Laisser sécher complètement puis appliquer le vernis compatible.",
+        "Variation décorative facultative : reprendre le thème « winter » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Tester les couleurs et le vernis sous la boîte avant de finir la pièce. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Couvercle 120 × 80 mm; cadre peint à 10 mm du bord; ombre portée de 5 mm vers le bas/droite.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 120,
+          "height_mm": 80,
+          "label": "Couvercle 120 × 80 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 10,
+          "y_mm": 10,
+          "width_mm": 100,
+          "height_mm": 60,
+          "label": "Cadre intérieur 100 × 60 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "99-Year-Old South Hills Founder to Debut Painting Collection During Winter Craft Show - StateCollege.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkxhLWlrZm5pQ3kwN2NoaVU2X19zdXdwN293d2FPY0EwX2o0M1ZnZTZBVVEtUlo5X1dteXk4dmxZYWN0MkNNd2txdVlzY2JTQWN4cUN0SEpqNmI5UHBaNUNTdDNGSVVUdzVEQWpmbDYzaFcyNi1ZYWZrRHJ0OGRJUElMazBjX1FiNU11QlVTeDhzWFhqN1dmNm4tUFFFbnFIVGcyZGFieUIyR21sM1FzU0FWMmRTRjJnM0FNWmcxa1JrR0FhWXNZVEkwakcwdkE?oc=5",
+        "publisher": "StateCollege.com",
+        "published_at": "2026-11-20T19:49:09+00:00",
+        "discovered_at": "2026-11-21T06:10:19.779220+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-peinture-0dbab1c5f394cb",
+      "family_id": "peinture",
+      "kind": "project",
+      "category": "peinture",
+      "title": "Carte peinte en lavis — variation : Manzanares El Real celebra su IV Feria de Bellas Artes y Manualidades co",
+      "tags": [
+        "peinture",
+        "carte peinte en lavis",
+        "inspiration en ligne",
+        "manzanares el real celebra su iv feria de bellas artes y manualidades co"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 12 ans; adapter l’outil et la supervision à l’âge et aux consignes du matériel.",
+      "materials": [
+        "Papier aquarelle 150×100 mm",
+        "aquarelle 3 couleurs",
+        "pinceau rond 1",
+        "eau 1 godet"
+      ],
+      "steps": [
+        "Tracer une marge de 10 mm; humidifier la zone centrale; poser trois lavis en bandes de 25 mm; laisser les couleurs se joindre sans frotter; sécher à plat.",
+        "Mesurer et reporter le gabarit principal de 100 × 70 mm sur le support; vérifier les angles droits et les marges.",
+        "Réaliser d’abord un essai sur une chute ou une zone discrète, puis suivre la séquence de fabrication sans sauter le séchage ou l’assemblage.",
+        "Contrôler la symétrie et les dimensions finales à la règle; corriger les petits écarts avant la finition.",
+        "Nettoyer le poste, laisser sécher ou refroidir selon le matériau, puis vérifier que les éléments sont solidement fixés.",
+        "Variation décorative facultative : reprendre le thème « Manzanares El Real celebra su IV Feria de Bellas Artes y Manualidades co » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Faire un essai à blanc avant le collage, la couture ou la finition définitive; mesurer deux fois avant la coupe. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Gabarit principal rectangulaire 100 × 70 mm, échelle 1:1; reporter les dimensions indiquées dans les étapes et ajouter les marges spécifiées par le projet.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 70,
+          "label": "Gabarit 1:1 100 × 70 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Manzanares El Real celebra su IV Feria de Bellas Artes y Manualidades con pintura, poesía y música en directo - Madrid Norte 24 horas",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzNpOVluS3E2QTR4RkFscmQ2WkpQM0Fsbjhqa2dQOUVuaFRFWU1pNVg4QTZpSUppSDFUeTJOdGh4REFMUjVuc1pLS0FjT0QyYXI0dUJqWUVmNXpHSnJtOS1hYnJFei1rZlVsRXNqTHhWTk44ZDVBQ1lnTHplZWRMcllWTVRoMnBwRWVHYnNienRlVmp6eFVGQ3FCX2hWR0hfSE5sdTJxWUJoMXl0dHFrd3ZBbTVyZUNuak55aEhWVkQwTEg1UEJWb2hiN2I1WUo4aWthVzBhc1FzakRoS1o4RUlsbWNRODZnRmRZUTBBb0tWQTAyc2dDZGFWTELSAYICQVVfeXFMUEMzUzBHcEZpaE9RNEpLMUVJWm1oOTFkUnZVQkp1OGxCTXVpQzRER3pGRXRHUGxnV3FBaTgxWkFqa1FVR01veGtNcWhqbFFobTJhTUo3NlN5cFBQdTdIY0t6bm5EMFhvQUtIOTNGYkZhWUJfQ1JHbWhRRWZ4T3FWVGVMMlNLQ01yQmt2cFlTLVRfSUczb3ZRTW5ZLUdBT2lVMkt1Y2tGUnhYeHd5MHB0aFMyYjZ1eW1BMWdna3UzWFBrVi0yczREYURvYmFBU3M5US1zb042U1dGaWkzeFN1bmdzVHpOOFRKWUhkVkVoa0lqTTVkRS1yM2JGTVJKMTlOY3dB?oc=5",
+        "publisher": "Madrid Norte 24 horas",
+        "published_at": "2026-11-20T14:37:18+00:00",
+        "discovered_at": "2026-11-21T06:10:19.780111+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-39b64ce4224aba",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Boîte à couvercle coulissant en bois pré-découpé — variation : Mini Pajarera De Madera Sin Terminar – Para Decorar Y Pintar, Tamaño 14x",
+      "tags": [
+        "bois",
+        "boîte",
+        "couvercle",
+        "assemblage précis",
+        "inspiration en ligne",
+        "mini pajarera de madera sin terminar – para decorar y pintar, tamaño 14x"
+      ],
+      "minutes": 135,
+      "level": "Confirmé",
+      "time": "2 h 15 + séchage",
+      "age": "Dès 16 ans; pièces préparées par un adulte",
+      "materials": [
+        "Fond : 160 × 90 × 4 mm",
+        "Côtés longs : 2 pièces de 160 × 45 × 4 mm avec rainure",
+        "Côtés courts : 2 pièces de 82 × 45 × 4 mm",
+        "Couvercle : 158 × 88 × 3 mm",
+        "Colle à bois : 15 ml",
+        "Papier abrasif fin : 1 feuille"
+      ],
+      "steps": [
+        "Vérifier que les rainures des côtés longs sont alignées et que le couvercle y glisse sans forcer.",
+        "Faire un montage à blanc autour du fond; placer les côtés courts entre les longs.",
+        "Retirer les pièces, appliquer la colle uniquement sur les chants de contact avec le fond et les côtés courts.",
+        "Remonter la boîte à l'équerre et maintenir avec du ruban; essuyer les bavures sans remplir les rainures.",
+        "Après séchage complet, poncer les arêtes et vérifier le coulissement du couvercle.",
+        "Appliquer une finition à l'eau en couche fine, sans en mettre dans les rainures, puis laisser durcir.",
+        "Variation décorative facultative : reprendre le thème « Mini Pajarera De Madera Sin Terminar – Para Decorar Y Pintar, Tamaño 14x » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Les rainures doivent être réalisées dans les pièces avant le projet; ne pas tenter de les creuser avec un outil non adapté. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Fond 160 × 90 mm; longs 2 × 160 × 45 mm avec rainure de 3 mm située à 8 mm du haut; courts 2 × 82 × 45 mm; couvercle 158 × 88 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 160,
+          "height_mm": 90,
+          "label": "Fond — 1 pièce"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 100,
+          "width_mm": 160,
+          "height_mm": 45,
+          "label": "Côtés longs rainurés — 2 pièces"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 170,
+          "y_mm": 100,
+          "width_mm": 82,
+          "height_mm": 45,
+          "label": "Côtés courts — 2 pièces"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 260,
+          "y_mm": 100,
+          "width_mm": 158,
+          "height_mm": 88,
+          "label": "Couvercle — 1 pièce"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Mini Pajarera De Madera Sin Terminar – Para Decorar Y Pintar, Tamaño 14x13x18 Cm, Ideal Para Jardín Y Manualidades - Poder Popular",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXdVTVJ5ZkFBVHJmZ2RsOVFTMV9EdldHTmpLOXE0LWhkb05qSUE4dXZKV1ZMcVhGZXpJbXVYa2FzZGprN3VBSjVEMTlCTXhiSEFzWjUydU9qR3ZZMjROeDNTYVdpUE9RVTQySkllVjJoUlhuTk54ODQ1cVBKNjZWNlQ4Mzh3N1VydXFvemhEMGptUQ?oc=5",
+        "publisher": "Poder Popular",
+        "published_at": "2026-11-18T18:41:58+00:00",
+        "discovered_at": "2026-11-21T06:10:19.782457+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-crochet-abaeb879084ebc",
+      "family_id": "crochet",
+      "kind": "project",
+      "category": "crochet",
+      "title": "Pochette à rabat en coton — variation : Núcleo de Artesanato da UFCG abre inscrições para curso de crochê - www.",
+      "tags": [
+        "crochet",
+        "pochette",
+        "rabat",
+        "inspiration en ligne",
+        "núcleo de artesanato da ufcg abre inscrições para curso de crochê - www."
+      ],
+      "minutes": 100,
+      "level": "Débutant",
+      "time": "1 h 40",
+      "age": "Dès 12 ans, crochet sous supervision",
+      "materials": [
+        "Coton moyen : 110 m",
+        "Crochet 4 mm : 1",
+        "Bouton 18 mm : 1",
+        "Aiguille à laine : 1"
+      ],
+      "steps": [
+        "Monter 26 mailles en l'air; l'échantillon doit mesurer environ 150 mm de large.",
+        "Crocheter 28 rangs de mailles serrées, tourner avec 1 maille en l'air à chaque rang.",
+        "Crocheter les 12 rangs suivants sur les 13 mailles centrales pour former le rabat.",
+        "Faire une boutonnière au dernier rang : 2 mailles en l'air, sauter 2 mailles, reprendre le rang.",
+        "Plier le rectangle en laissant le rabat libre; coudre les côtés avec une couture invisible.",
+        "Coudre le bouton en face de la boutonnière, rentrer et couper les fils.",
+        "Variation décorative facultative : reprendre le thème « Núcleo de Artesanato da UFCG abre inscrições para curso de crochê - www. » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Mesurer la largeur après quelques rangs; la tension du fil change les dimensions finales. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Rectangle crocheté 150 × 240 mm; corps 150 × 160 mm; rabat central 75 × 80 mm; boutonnière 10 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 240,
+          "label": "Rectangle 150 × 240 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 37.5,
+          "y_mm": 160,
+          "width_mm": 75,
+          "height_mm": 80,
+          "label": "Rabat central 75 × 80 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Núcleo de Artesanato da UFCG abre inscrições para curso de crochê - www.gov.br",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcG1ZRURNVkpsN21oTlpzWXVtNTQ5WjhBOFhSRVFLQmpGS0NNWWtVbTltUExPNHhleGFsRDFuOEdSek5iTGtYNjV6MzBpcGJqcUlVWkZ0ajQyak9yR1ZLeUgwUzg3OW43b3JiNGNOLWUtMTVnMjJuVUE1OHhhMUxFSmxrUTFtd2FubHZnNTFQbUV1RGUxRThYY0tKRVVvNG9BQ0dhTU8wVFhmbVJaejhuMWQxRjdRQUJ4M1p2UlZ6SDJlZUNjdUE?oc=5",
+        "publisher": "www.gov.br",
+        "published_at": "2026-09-10T07:00:00+00:00",
+        "discovered_at": "2026-11-21T06:10:19.784082+00:00",
+        "locale": "pt-BR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
     }
   ]
 }

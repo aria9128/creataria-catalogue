@@ -6,13 +6,13 @@
   "minimum_creations_per_family": 5,
   "family_counts": {
     "couture": 12,
-    "crochet": 9,
+    "crochet": 10,
     "tricot": 9,
     "broderie": 9,
     "papier": 10,
-    "bois": 10,
+    "bois": 11,
     "dessin": 9,
-    "peinture": 9,
+    "peinture": 11,
     "origami": 9,
     "scrapbooking": 9,
     "bijoux": 10,
@@ -23,11 +23,11 @@
     "cuisine_creative": 9,
     "recyclage": 9,
     "jeux": 9,
-    "decoration": 11,
+    "decoration": 13,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
-    "astronomie": 11,
+    "astronomie": 13,
     "echecs": 9
   },
   "cells": [
@@ -150,7 +150,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "crochet-debutant-long-pochette"
+        "crochet-debutant-long-pochette",
+        "robot-crochet-abaeb879084ebc"
       ],
       "status": "complete"
     },
@@ -572,7 +573,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "bois-confirme-long-boite-coulissante"
+        "bois-confirme-long-boite-coulissante",
+        "robot-bois-39b64ce4224aba"
       ],
       "status": "complete"
     },
@@ -672,7 +674,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "peinture-débutant-under_30-1"
+        "peinture-débutant-under_30-1",
+        "robot-peinture-0dbab1c5f394cb"
       ],
       "status": "complete"
     },
@@ -742,7 +745,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "peinture-confirme-moyen-boite"
+        "peinture-confirme-moyen-boite",
+        "robot-peinture-eb8392fb4af9cf"
       ],
       "status": "complete"
     },
@@ -1667,7 +1671,8 @@
       "duration_label": "moins de 30 min",
       "creation_ids": [
         "deco-debutant-court-etoile",
-        "robot-decoration-b80f8e193b2456"
+        "robot-decoration-b80f8e193b2456",
+        "robot-decoration-e5aa0dc7ef7bc2"
       ],
       "status": "complete"
     },
@@ -1738,7 +1743,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "deco-confirme-moyen-cadre-miroir"
+        "deco-confirme-moyen-cadre-miroir",
+        "robot-decoration-99829b31f01488"
       ],
       "status": "complete"
     },
@@ -2040,7 +2046,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "astro-debutant-moyen-roue-lune"
+        "astro-debutant-moyen-roue-lune",
+        "robot-astronomie-6b9ef638fe178b"
       ],
       "status": "complete"
     },
@@ -2112,7 +2119,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "astro-confirme-long-atlas-personnel"
+        "astro-confirme-long-atlas-personnel",
+        "robot-astronomie-4b38b90f1f13b6"
       ],
       "status": "complete"
     },
