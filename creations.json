@@ -12494,6 +12494,327 @@
         "method": "Google News RSS; titre, lien et éditeur seulement"
       },
       "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-622fbe284d5c85",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Mini-carnet d'observation de la Lune — variation : El mercadillo navideño más bonito y premiado de Europa: con una pista de",
+      "tags": [
+        "astronomie",
+        "lune",
+        "carnet",
+        "observation",
+        "inspiration en ligne",
+        "el mercadillo navideño más bonito y premiado de europa: con una pista de"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 8 ans",
+      "materials": [
+        "Papier : 4 feuilles A6",
+        "Carton couverture : 2 pièces de 105 × 148 mm",
+        "Crayon : 1",
+        "Agrafeuse : 1",
+        "Règle : 1"
+      ],
+      "steps": [
+        "Plier les quatre feuilles A6 en deux pour former huit pages.",
+        "Tracer sur chaque page un cercle de 35 mm de diamètre et des lignes pour la date, l'heure et l'apparence observée.",
+        "Assembler les pages entre les deux couvertures et agrafer au pli.",
+        "Lors d'une observation, dessiner la partie éclairée telle qu'elle apparaît depuis le lieu choisi.",
+        "Noter la date, l'heure et la direction générale du regard sans regarder directement le Soleil.",
+        "Comparer les dessins après plusieurs nuits.",
+        "Variation décorative facultative : reprendre le thème « El mercadillo navideño más bonito y premiado de Europa: con una pista de » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "La forme apparente dépend de la date et du lieu d'observation; dessiner ce qui est réellement vu plutôt que suivre un modèle unique. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Carnet fini A6, 8 pages; zone de dessin circulaire Ø 35 mm et champs d'observation de 60 × 8 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 105,
+          "height_mm": 148,
+          "label": "Page carnet — tracer au pli central"
+        },
+        {
+          "type": "circle",
+          "x_mm": 35,
+          "y_mm": 12,
+          "diameter_mm": 35,
+          "label": "Zone de dessin lunaire Ø 35 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "El mercadillo navideño más bonito y premiado de Europa: con una pista de hielo gratis y más de 100 puestos de artesanía y gastronomía donde probar 'goulash' y 'lángos' y beber 'pálinka' - Vozpopuli",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNZ0pUVk9zdFpxYm1uVFcwWXNIQi14NEU3S0Rid1lFN3RFTlRtZVE1MmxrWElZVHNtQWtTMElKcFBlbXVHd1E2ekU0SzR4OGM0NkR0a1pla3hPR0M4alY1eUJmWnk0Qm9RVTBpd0JKMG14SG8zV0pDOGgyLTJIcjd5bDNfcTlpN09hWk84RURGdkg2NUFoWGRBNXFLN1l2NlNTNmMxbDJtWFMyNjZMdXEza1dnWklQN0JYai1qaGNlZ0FWZW5nWEJYTG14NEtYdzdRRG5oV1ZMLURRd2xHQmhYazVfb2RJUDdTUjg1bl9kdlRQUzZaQ2RDM0ZqekdORmdwZVd5TzJQRVNnNnRvTnQtb3VNdy1FZFVfVWluWXJ6c21nQ21tV29Nd184ZS1Cel9ldGRmUkNNV29Zakhn0gHCAkFVX3lxTFBJZ0o4YmhnMWc5bTRJWjBxS2w3X1p5STdCRE85NF91eHZYTGtQUXdqZEVJUW1xYVVibHNtRkFOZjZLbjh0LXRhdDBOcXkyU0tiUWtNNVNHdjlveUNQb0xhT1RQT3UyOTdKVUtfTDdGa21LbUp4Q2stUjFJcTVXb1NXUG9hdmRxWVRieE5EYW14MnFmc19LSzNFem9jRi1Ka1BJcjNJSkdJNkljRUJxdkFPZkw5UTZWMkhGQXE0MkY3aTYyaEliV0pNUHFtbzdSRUpwRkZEUWRveEdXeU1tUG84U1EwYVhFUHZlRHFkUko5RkJJV1VWQWNybVhQTWFFU1FkMXd5akpRRGNXNTRVcUpmbDd0dHhtZndqaWRYbWZyQk0yT0Z0RXlVcWlVNVlKdXV1UmVOcU95clliX21UWTJ3X1E?oc=5",
+        "publisher": "Vozpopuli",
+        "published_at": "2026-11-22T06:00:00+00:00",
+        "discovered_at": "2026-11-22T06:10:35.242218+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-jardinage-d9de18bcdc01ee",
+      "family_id": "jardinage",
+      "kind": "project",
+      "category": "jardinage",
+      "title": "Bac miniature de pluie — variation : Gardening Update: Creating Handmade Holiday Wreaths - WSTM",
+      "tags": [
+        "jardinage",
+        "bac miniature de pluie",
+        "inspiration en ligne",
+        "gardening update: creating handmade holiday wreaths - wstm"
+      ],
+      "minutes": 20,
+      "level": "Confirmé",
+      "time": "20 min",
+      "age": "Dès 12 ans; adapter les outils à l’âge et respecter les consignes des matériaux.",
+      "materials": [
+        "Contenant percé : 1, environ 220 × 154 mm",
+        "Substrat : 1 L",
+        "Gravier drainant : 200 ml",
+        "Plants : 1 à 3"
+      ],
+      "steps": [
+        "Poser 30 mm de gravier dans un bac percé de 400 × 300 mm; ajouter 12 L de mélange filtrant; former une cuvette de 50 mm; planter cinq végétaux adaptés au climat et vérifier l’évacuation.",
+        "Mesurer et tracer le patron principal de 220 × 154 mm à l’échelle 1:1; marquer tous les repères au crayon et vérifier les dimensions.",
+        "Faire un essai à blanc ou sur une chute; corriger l’alignement avant la coupe, le pliage, la couture ou le collage définitif.",
+        "Réaliser l’assemblage progressivement en contrôlant les mesures après chaque opération; respecter les temps de séchage ou de fixation indiqués sur les matériaux.",
+        "Égaliser les bords, rentrer les fils ou fixer les attaches, nettoyer la surface et vérifier la solidité avant usage.",
+        "Variation décorative facultative : reprendre le thème « Gardening Update: Creating Handmade Holiday Wreaths - WSTM » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Choisir une espèce adaptée à la lumière et au climat; conserver les trous de drainage dégagés. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Patron principal 220 × 154 mm à l’échelle 1:1; reporter les repères cotés décrits dans les étapes.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 220,
+          "height_mm": 154,
+          "label": "Patron 1:1 220 × 154 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Gardening Update: Creating Handmade Holiday Wreaths - WSTM",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnVNZkFSVU1SOVp3em5lUWFQU2FqYUdzYW1rX2dYSjc4X09DMU5rSERWWEJ3YmlFRGFjRkEzd2pjU0VkVGUyUk1OOTlIN1hUMkkyc2ZrUkVNWFRTVVUxYk1sZlk4YjZ0YThhak42VmVvMVRqZmRPeFA1czl1RHY2ekxMbG9ZcVY0TjZNZA?oc=5",
+        "publisher": "WSTM",
+        "published_at": "2026-11-21T18:46:56+00:00",
+        "discovered_at": "2026-11-22T06:10:35.245990+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-jardinage-38ff2ce59aaef9",
+      "family_id": "jardinage",
+      "kind": "project",
+      "category": "jardinage",
+      "title": "Étiquette de semis illustrée — variation : [ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les rése — variation : Transforming Gardening Tools into a Stylish Table: Creative DIY Idea - Y",
+      "tags": [
+        "jardinage",
+        "étiquette de semis illustrée",
+        "inspiration en ligne",
+        "[ exclu ] l’image prix des enseignes de bricolage-jardinage sur les rése",
+        "transforming gardening tools into a stylish table: creative diy idea - y"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 12 ans; adapter les outils à l’âge et respecter les consignes des matériaux.",
+      "materials": [
+        "Contenant percé : 1, environ 100 × 70 mm",
+        "Substrat : 1 L",
+        "Gravier drainant : 200 ml",
+        "Plants : 1 à 3"
+      ],
+      "steps": [
+        "Tracer une zone de 70 × 15 mm sur un bâtonnet de 150 mm; peindre une feuille simple; écrire le nom de la plante au crayon gras; sécher puis planter à 30 mm.",
+        "Mesurer et tracer le patron principal de 100 × 70 mm à l’échelle 1:1; marquer tous les repères au crayon et vérifier les dimensions.",
+        "Faire un essai à blanc ou sur une chute; corriger l’alignement avant la coupe, le pliage, la couture ou le collage définitif.",
+        "Réaliser l’assemblage progressivement en contrôlant les mesures après chaque opération; respecter les temps de séchage ou de fixation indiqués sur les matériaux.",
+        "Égaliser les bords, rentrer les fils ou fixer les attaches, nettoyer la surface et vérifier la solidité avant usage.",
+        "Variation décorative facultative : reprendre le thème « [ EXCLU ] L’image prix des enseignes de bricolage-jardinage sur les rése » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche.",
+        "Variation décorative facultative : reprendre le thème « Transforming Gardening Tools into a Stylish Table: Creative DIY Idea - Y » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Choisir une espèce adaptée à la lumière et au climat; conserver les trous de drainage dégagés. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Patron principal 100 × 70 mm à l’échelle 1:1; reporter les repères cotés décrits dans les étapes.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 70,
+          "label": "Patron 1:1 100 × 70 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Transforming Gardening Tools into a Stylish Table: Creative DIY Idea - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNck53ZXNSZVA2NGpVWG81NFBiVWR5Umdlc1BHZC1yX1JtbXJpbjdyVk12bzVGRlF4LVpzelRHak5KbFY3TGhWUGE0ejVVaW04TkRYRTZqdVp5OEc0QVlQaF9tQnZOWE11aHE0aUFoVngzRDBYVGh5WVBBZjctdlZaT3phTXdZRmU4UW5YYWlSSElLcnRWY1FEaW9mS0o?oc=5",
+        "publisher": "Yahoo",
+        "published_at": "2026-11-21T14:00:00+00:00",
+        "discovered_at": "2026-11-22T06:10:35.247210+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-22715c004ff01f",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Maquette Terre-Lune pour visualiser les phases — variation : El municipio ideal para recorrer a pie sus 7 'Aldeas de Navidad' y su gr",
+      "tags": [
+        "astronomie",
+        "Terre",
+        "Lune",
+        "maquette",
+        "inspiration en ligne",
+        "el municipio ideal para recorrer a pie sus 7 'aldeas de navidad' y su gr"
+      ],
+      "minutes": 95,
+      "level": "Intermédiaire",
+      "time": "1 h 35",
+      "age": "Dès 12 ans; LED basse tension",
+      "materials": [
+        "Carton base : 300 × 200 mm",
+        "Boule légère de 30 mm : 1",
+        "Boule de 100 mm : 1",
+        "Tige bois : 250 mm",
+        "Lampe LED froide : 1",
+        "Peinture : 3 couleurs",
+        "Pâte adhésive : 1 morceau"
+      ],
+      "steps": [
+        "Fixer la boule de 100 mm sur la base pour représenter la Terre et la boule de 30 mm sur la tige comme Lune.",
+        "Placer une LED froide à environ 250 mm de la Terre pour représenter le Soleil; ne pas utiliser de flamme.",
+        "Dans une pièce assombrie, tenir la maquette de Lune à hauteur de la Terre et la déplacer autour d'elle.",
+        "Observer la partie éclairée depuis la position de la Terre à huit positions de la Lune.",
+        "Dessiner sur la base les huit apparences observées et leur position orbitale.",
+        "Écrire que la maquette n'est pas à l'échelle des diamètres ni des distances.",
+        "Variation décorative facultative : reprendre le thème « El municipio ideal para recorrer a pie sus 7 'Aldeas de Navidad' y su gr » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "La phase vient de la portion éclairée visible depuis la Terre; ne pas confondre avec l'ombre de la Terre. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Base 300 × 200 mm; Terre Ø 100 mm; Lune Ø 30 mm; tige 250 mm; distance de démonstration 250 mm, non à l'échelle réelle.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 300,
+          "height_mm": 200,
+          "label": "Base de démonstration"
+        },
+        {
+          "type": "circle",
+          "x_mm": 100,
+          "y_mm": 50,
+          "diameter_mm": 100,
+          "label": "Terre — maquette Ø 100 mm"
+        },
+        {
+          "type": "circle",
+          "x_mm": 230,
+          "y_mm": 85,
+          "diameter_mm": 30,
+          "label": "Lune — maquette Ø 30 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "El municipio ideal para recorrer a pie sus 7 'Aldeas de Navidad' y su gran mercado de artesanía y gastronomía - El Español",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVkFXSGpHdEMwZG9fcVhwaVBscXNsVHlJMjlYSEhla3pjVk9URWhYU0N0NGpKclN4OXNPVS1wQ3dBd0JRYWZRR0pvZW1hdFNXQkRVbWQ4LWhfN211OWdCQmx0bUVyMGcxTklib0tBY3hzT1Jtc3l0WVR2SU1NVVlvcm5mTk52NHFlbFR1UkpqSGhJbi1QcU0waFVTbWpNWm50dDJBc0hTakdVSFNsLWNJWFBxNnpDMUd3ZGZWTW52ZmN6T0VKTlJfazlrN0xMa0VEQk9OazJianhLWmtzSnN5Z2xTR2Ywa05fZDN1QkczdXpkVWJIdUFPTXZoMNIBgAJBVV95cUxQbE8yam5HQlFub25CSmktM25Uc0dpU0oxTzNFdlZRR09Ea3kwY1ZGanBfa3R5YmFTb2tISC0wNWV0YnB1bUNWLWJRcHN1S2dvSzl2LWdBUXBrNlJZTGlETEgzTVNZS21CQk5KSkk0SkQxVnRJNDBTUVFaclM4a1lJbzM1dk03djdvZXdTT0NOTWs3bEl0VmtuZDFnZzlkdjlEenVQWk9RclllVGpYYUU5bFc2WVZwRG9ZSENSRldTdmpub0FfbkpNOXd2LUxNU3Rua1hGcUFaZkZSYV9wZ25vcWJPQW1Hck5tcnJjdTEwQWN6OFIyaVBMelduMGlrUVA0?oc=5",
+        "publisher": "El Español",
+        "published_at": "2026-11-19T13:00:00+00:00",
+        "discovered_at": "2026-11-22T06:10:35.255203+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-cuisine_creative-78d723e2737a1f",
+      "family_id": "cuisine_creative",
+      "kind": "project",
+      "category": "cuisine_creative",
+      "title": "Bâtonnets glacés au yaourt et fruits — variation : 料理もグリーンもDIY。くらしのぜんぶを繋ぐオンラインコミュニティ「CAINZ DIY Square」が歩んだ5年間（澁谷慶子さん・日野上紗貴さ",
+      "tags": [
+        "cuisine créative",
+        "yaourt",
+        "fruits",
+        "glacé",
+        "inspiration en ligne",
+        "料理もグリーンもdiy。くらしのぜんぶを繋ぐオンラインコミュニティ「cainz diy square」が歩んだ5年間（澁谷慶子さん・日野上紗貴さ"
+      ],
+      "minutes": 150,
+      "level": "Débutant",
+      "time": "30 min de préparation + 2 h au congélateur",
+      "age": "Dès 6 ans; adulte pour la découpe et le congélateur",
+      "materials": [
+        "Yaourt nature pasteurisé : 300 g",
+        "Fraises : 100 g",
+        "Mangue : 100 g",
+        "Miel : 15 g (facultatif, jamais pour les moins d'un an)",
+        "Moules à glace : 6",
+        "Bâtonnets : 6",
+        "Mixeur : 1 facultatif"
+      ],
+      "steps": [
+        "Se laver les mains et rincer les fruits; un adulte coupe la mangue et les fraises en morceaux.",
+        "Mélanger 300 g de yaourt avec 15 g de miel si désiré; omettre le miel pour les enfants de moins d'un an.",
+        "Répartir les fruits dans six moules de 80 ml, puis verser le yaourt sans dépasser la ligne de remplissage.",
+        "Insérer les bâtonnets et fermer les moules.",
+        "Placer au congélateur sur une surface plane pendant au moins 2 heures ou jusqu'à solidification complète.",
+        "Démouler au moment de servir; remettre immédiatement les portions non servies au froid et suivre les indications du fabricant des moules.",
+        "Variation décorative facultative : reprendre le thème « 料理もグリーンもDIY。くらしのぜんぶを繋ぐオンラインコミュニティ「CAINZ DIY Square」が歩んだ5年間（澁谷慶子さん・日野上紗貴さ » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Vérifier les allergies aux produits laitiers; les bâtonnets et morceaux de fruits sont à adapter à l'âge des enfants. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "6 moules de 80 ml; remplissage sous la limite indiquée par le fabricant; fruits en morceaux de 8 à 10 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 25,
+          "height_mm": 100,
+          "label": "Moule bâtonnet indicatif — répéter 6"
+        },
+        {
+          "type": "circle",
+          "x_mm": 5,
+          "y_mm": 5,
+          "diameter_mm": 8,
+          "label": "Morceau de fruit — dés de 8 à 10 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "料理もグリーンもDIY。くらしのぜんぶを繋ぐオンラインコミュニティ「CAINZ DIY Square」が歩んだ5年間（澁谷慶子さん・日野上紗貴さん） - WORK MILL",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9McURsZWdBYWdycGk1T0dIamdGaDRMaVd6Rk1aaFR5YkVqUFhlbXlCajVMdTI0bHZKeDRPazZ0MEVhODFFeXNUVXlKMFgwYTdpMVdNNE9tTDhIaDc3RDJET0JvQU10dUNq?oc=5",
+        "publisher": "WORK MILL",
+        "published_at": "2026-11-19T07:21:06+00:00",
+        "discovered_at": "2026-11-22T06:10:35.256122+00:00",
+        "locale": "ja-JP",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
     }
   ]
 }

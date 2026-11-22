@@ -19,15 +19,15 @@
     "modelage": 10,
     "macrame": 10,
     "resine": 9,
-    "jardinage": 10,
-    "cuisine_creative": 9,
+    "jardinage": 12,
+    "cuisine_creative": 10,
     "recyclage": 9,
     "jeux": 9,
     "decoration": 13,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
-    "astronomie": 13,
+    "astronomie": 15,
     "echecs": 9
   },
   "cells": [
@@ -1310,7 +1310,8 @@
       "duration_label": "moins de 30 min",
       "creation_ids": [
         "jardinage-débutant-under_30-1",
-        "robot-jardinage-ee25f8d5b1614d"
+        "robot-jardinage-ee25f8d5b1614d",
+        "robot-jardinage-38ff2ce59aaef9"
       ],
       "status": "complete"
     },
@@ -1370,7 +1371,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "jardinage-confirmé-under_30-7"
+        "jardinage-confirmé-under_30-7",
+        "robot-jardinage-d9de18bcdc01ee"
       ],
       "status": "complete"
     },
@@ -1420,7 +1422,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "cuisine-debutant-long-glaces-yaourt"
+        "cuisine-debutant-long-glaces-yaourt",
+        "robot-cuisine_creative-78d723e2737a1f"
       ],
       "status": "complete"
     },
@@ -2036,7 +2039,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "astro-debutant-court-carnet-lune"
+        "astro-debutant-court-carnet-lune",
+        "robot-astronomie-622fbe284d5c85"
       ],
       "status": "complete"
     },
@@ -2088,7 +2092,8 @@
       "duration_label": "plus d'1 h",
       "creation_ids": [
         "astro-intermediaire-long-model-lune",
-        "robot-astronomie-512f62ee92edba"
+        "robot-astronomie-512f62ee92edba",
+        "robot-astronomie-22715c004ff01f"
       ],
       "status": "complete"
     },
