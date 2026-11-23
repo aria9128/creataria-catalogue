@@ -9,9 +9,9 @@
     "crochet": 10,
     "tricot": 9,
     "broderie": 9,
-    "papier": 10,
-    "bois": 11,
-    "dessin": 9,
+    "papier": 11,
+    "bois": 12,
+    "dessin": 10,
     "peinture": 11,
     "origami": 9,
     "scrapbooking": 9,
@@ -23,11 +23,11 @@
     "cuisine_creative": 10,
     "recyclage": 9,
     "jeux": 9,
-    "decoration": 13,
+    "decoration": 14,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
-    "astronomie": 15,
+    "astronomie": 16,
     "echecs": 9
   },
   "cells": [
@@ -462,7 +462,8 @@
       "duration_label": "moins de 30 min",
       "creation_ids": [
         "papier-confirme-court-quilling",
-        "robot-papier-0cf2921da41ac8"
+        "robot-papier-0cf2921da41ac8",
+        "robot-papier-03989573599576"
       ],
       "status": "complete"
     },
@@ -493,7 +494,8 @@
       "duration_label": "moins de 30 min",
       "creation_ids": [
         "bois-debutant-court-support-photo",
-        "robot-bois-058b27e188c1c2"
+        "robot-bois-058b27e188c1c2",
+        "robot-bois-aa764c7eaef694"
       ],
       "status": "complete"
     },
@@ -614,7 +616,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "dessin-intermediaire-court-gestes"
+        "dessin-intermediaire-court-gestes",
+        "robot-dessin-0bca0c18767d13"
       ],
       "status": "complete"
     },
@@ -1726,7 +1729,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "deco-intermediaire-long-boite-ombre"
+        "deco-intermediaire-long-boite-ombre",
+        "robot-decoration-01de1c093c0856"
       ],
       "status": "complete"
     },
@@ -2114,7 +2118,8 @@
       "duration_label": "30 min à 1 h",
       "creation_ids": [
         "astro-confirme-moyen-projecteur-constellation",
-        "robot-astronomie-b6a20f50bca715"
+        "robot-astronomie-b6a20f50bca715",
+        "robot-astronomie-97833451097f3f"
       ],
       "status": "complete"
     },
