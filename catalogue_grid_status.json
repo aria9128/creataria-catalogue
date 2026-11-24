@@ -10,9 +10,9 @@
     "tricot": 9,
     "broderie": 9,
     "papier": 11,
-    "bois": 12,
+    "bois": 13,
     "dessin": 10,
-    "peinture": 11,
+    "peinture": 12,
     "origami": 9,
     "scrapbooking": 9,
     "bijoux": 10,
@@ -21,9 +21,9 @@
     "resine": 9,
     "jardinage": 12,
     "cuisine_creative": 10,
-    "recyclage": 9,
+    "recyclage": 10,
     "jeux": 9,
-    "decoration": 14,
+    "decoration": 16,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
@@ -576,7 +576,8 @@
       "duration_label": "plus d'1 h",
       "creation_ids": [
         "bois-confirme-long-boite-coulissante",
-        "robot-bois-39b64ce4224aba"
+        "robot-bois-39b64ce4224aba",
+        "robot-bois-aa54d80edb91f4"
       ],
       "status": "complete"
     },
@@ -708,7 +709,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "peinture-intermediaire-court-galet"
+        "peinture-intermediaire-court-galet",
+        "robot-peinture-b453a23c50624c"
       ],
       "status": "complete"
     },
@@ -1556,7 +1558,8 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "recyclage-confirmé-under_30-7"
+        "recyclage-confirmé-under_30-7",
+        "robot-recyclage-0850f653024324"
       ],
       "status": "complete"
     },
@@ -1678,7 +1681,8 @@
       "creation_ids": [
         "deco-debutant-court-etoile",
         "robot-decoration-b80f8e193b2456",
-        "robot-decoration-e5aa0dc7ef7bc2"
+        "robot-decoration-e5aa0dc7ef7bc2",
+        "robot-decoration-7171c308765b51"
       ],
       "status": "complete"
     },
@@ -1751,7 +1755,8 @@
       "duration_label": "30 min à 1 h",
       "creation_ids": [
         "deco-confirme-moyen-cadre-miroir",
-        "robot-decoration-99829b31f01488"
+        "robot-decoration-99829b31f01488",
+        "robot-decoration-7c616c04d9ca92"
       ],
       "status": "complete"
     },
