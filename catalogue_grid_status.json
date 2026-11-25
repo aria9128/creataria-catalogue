@@ -5,12 +5,12 @@
   "cells_filled": 216,
   "minimum_creations_per_family": 5,
   "family_counts": {
-    "couture": 12,
+    "couture": 13,
     "crochet": 10,
-    "tricot": 9,
+    "tricot": 10,
     "broderie": 9,
-    "papier": 11,
-    "bois": 13,
+    "papier": 12,
+    "bois": 15,
     "dessin": 10,
     "peinture": 12,
     "origami": 9,
@@ -23,11 +23,11 @@
     "cuisine_creative": 10,
     "recyclage": 10,
     "jeux": 9,
-    "decoration": 16,
+    "decoration": 18,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
-    "astronomie": 16,
+    "astronomie": 18,
     "echecs": 9
   },
   "cells": [
@@ -90,7 +90,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "couture-intermediaire-long-tablier"
+        "couture-intermediaire-long-tablier",
+        "robot-couture-bb5c1fb95faafd"
       ],
       "status": "complete"
     },
@@ -241,7 +242,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "tricot-debutant-long-echarpe"
+        "tricot-debutant-long-echarpe",
+        "robot-tricot-dd7300916fceaf"
       ],
       "status": "complete"
     },
@@ -473,7 +475,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "papier-confirme-moyen-tissage"
+        "papier-confirme-moyen-tissage",
+        "robot-papier-2c3e00830e19c7"
       ],
       "status": "complete"
     },
@@ -495,7 +498,8 @@
       "creation_ids": [
         "bois-debutant-court-support-photo",
         "robot-bois-058b27e188c1c2",
-        "robot-bois-aa764c7eaef694"
+        "robot-bois-aa764c7eaef694",
+        "robot-bois-2785a95d76a61b"
       ],
       "status": "complete"
     },
@@ -577,7 +581,8 @@
       "creation_ids": [
         "bois-confirme-long-boite-coulissante",
         "robot-bois-39b64ce4224aba",
-        "robot-bois-aa54d80edb91f4"
+        "robot-bois-aa54d80edb91f4",
+        "robot-bois-4384f01a475724"
       ],
       "status": "complete"
     },
@@ -1723,7 +1728,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "deco-intermediaire-moyen-chemin-table"
+        "deco-intermediaire-moyen-chemin-table",
+        "robot-decoration-c27ee49492dce3"
       ],
       "status": "complete"
     },
@@ -1734,7 +1740,8 @@
       "duration_label": "plus d'1 h",
       "creation_ids": [
         "deco-intermediaire-long-boite-ombre",
-        "robot-decoration-01de1c093c0856"
+        "robot-decoration-01de1c093c0856",
+        "robot-decoration-e292b92dbd0507"
       ],
       "status": "complete"
     },
@@ -2070,7 +2077,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "astro-debutant-long-mobile-planetes"
+        "astro-debutant-long-mobile-planetes",
+        "robot-astronomie-decf99d2a68a10"
       ],
       "status": "complete"
     },
@@ -2135,7 +2143,8 @@
       "duration_label": "plus d'1 h",
       "creation_ids": [
         "astro-confirme-long-atlas-personnel",
-        "robot-astronomie-4b38b90f1f13b6"
+        "robot-astronomie-4b38b90f1f13b6",
+        "robot-astronomie-3cb17c58a502d8"
       ],
       "status": "complete"
     },

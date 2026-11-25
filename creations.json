@@ -13492,6 +13492,643 @@
         "method": "Google News RSS; titre, lien et éditeur seulement"
       },
       "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-e292b92dbd0507",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Boîte d'ombre décorative à plusieurs plans — variation : La ciudad con un mercadillo de Navidad que abre el 4 de diciembre: 20 pu — variation : Bargain Frame Craft Creates Cozy Fall Seasonal Decor - Yahoo",
+      "tags": [
+        "décoration",
+        "boîte d'ombre",
+        "papier",
+        "relief",
+        "inspiration en ligne",
+        "la ciudad con un mercadillo de navidad que abre el 4 de diciembre: 20 pu",
+        "bargain frame craft creates cozy fall seasonal decor - yahoo"
+      ],
+      "minutes": 95,
+      "level": "Intermédiaire",
+      "time": "1 h 35",
+      "age": "Dès 13 ans",
+      "materials": [
+        "Cadre profond : ouverture 150 × 150 mm",
+        "Carton plume : 3 feuilles de 150 × 150 × 5 mm",
+        "Papier coloré : 3 feuilles A5",
+        "Colle : 5 ml",
+        "Cutter de précision : 1, adulte uniquement",
+        "Règle métallique : 1"
+      ],
+      "steps": [
+        "Dessiner trois plans de paysage sur papier : arrière-plan, éléments centraux et premier plan.",
+        "Découper chaque plan en laissant une marge extérieure de 10 mm qui s'insère dans le cadre.",
+        "Découper des entretoises de carton plume de 10 × 150 mm.",
+        "Coller le fond au cadre, poser des entretoises aux quatre coins, puis fixer le plan central.",
+        "Ajouter un second jeu d'entretoises et coller le premier plan.",
+        "Fermer le dos du cadre et vérifier que rien ne touche la vitre.",
+        "Variation décorative facultative : reprendre le thème « La ciudad con un mercadillo de Navidad que abre el 4 de diciembre: 20 pu » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche.",
+        "Variation décorative facultative : reprendre le thème « Bargain Frame Craft Creates Cozy Fall Seasonal Decor - Yahoo » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Un adulte effectue les coupes au cutter; travailler sur un tapis et éloigner les doigts de la lame. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Ouverture 150 × 150 mm; trois plans 150 × 150 mm; entretoises 10 × 150 mm; profondeur de séparation 10 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 150,
+          "label": "Format de chaque plan — 3 couches"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 160,
+          "y_mm": 0,
+          "width_mm": 10,
+          "height_mm": 150,
+          "label": "Entretoise — répéter 8"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Bargain Frame Craft Creates Cozy Fall Seasonal Decor - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWhPa1JDenRPR2ZkbkRYTnFjZmJ0THg3c0pCTUtFR1U0N1RKUm1HZnhYN0dTRXlLcHlQTzM3UWlLeVdFVWN1OGdhXzd4amVrVlc3Q2NyQnJHTG1XZ0RBUlkxZ3Fxb2VKaDJqNDBORDFQX001Yy1nNGV5ZzJDN2xManhQTUhwSzE1dkZCQUw3TQ?oc=5",
+        "publisher": "Yahoo",
+        "published_at": "2026-11-25T00:00:00+00:00",
+        "discovered_at": "2026-11-25T06:14:50.623969+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-papier-2c3e00830e19c7",
+      "family_id": "papier",
+      "kind": "project",
+      "category": "papier",
+      "title": "Dessous de verre tressé en papier — variation : La moda flamenca y la artesanía reivindican su papel como patrimonio cul",
+      "tags": [
+        "papier",
+        "tressage",
+        "tissage",
+        "dessous de verre",
+        "inspiration en ligne",
+        "la moda flamenca y la artesanía reivindican su papel como patrimonio cul"
+      ],
+      "minutes": 55,
+      "level": "Confirmé",
+      "time": "55 min",
+      "age": "Dès 12 ans",
+      "materials": [
+        "Bandes papier épais : 12 de 10 × 180 mm",
+        "Carton support : 100 × 100 mm",
+        "Colle blanche : 3 ml",
+        "Règle : 1"
+      ],
+      "steps": [
+        "Coller six bandes verticales sur le support, espacées de 14 mm, avec 10 mm de dépassement en haut et en bas.",
+        "Passer une bande horizontale alternativement dessus-dessous les bandes verticales.",
+        "Inverser le départ du rang suivant pour créer un tissage alterné.",
+        "Tisser les six bandes horizontales sans tirer sur les bandes.",
+        "Replier les extrémités au dos et les coller.",
+        "Presser sous un livre vingt minutes puis couper les débords.",
+        "Variation décorative facultative : reprendre le thème « La moda flamenca y la artesanía reivindican su papel como patrimonio cul » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Garder les bandes parallèles; une tension trop forte déforme le carré. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Support 100 × 100 mm; 12 bandes de 10 × 180 mm; espacement des bandes verticales 14 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 100,
+          "label": "Support carton"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 110,
+          "y_mm": 0,
+          "width_mm": 180,
+          "height_mm": 10,
+          "label": "Bande — couper 12"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "La moda flamenca y la artesanía reivindican su papel como patrimonio cultural en un encuentro en la UCO - Cordoba Hoy",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYm1ORDJyT3I5RjZiazZzcnZSTlBROGFSOUdZeTU1YWo1VjVDSTZ4WXhkRTFnS3ZoSWJGMzdsVkJaX0R0Q1A0cnFUQW14RzBLSUptS1Y2bGk2a01GQVdlSVc5V2pWUHlsbklpUF8zMDN1Q19BZVhxbllTQlZnOEgxUmFsYUxJYTFid3gtY2Y3eFRfTm1mc0ZRMV9YUWlzRzBzaHRrR2RVZGhNa1JRZzFuNnRWemVrZllFOWpITjNmT204TVlJ0gHKAUFVX3lxTFBTb1RyTTRFTzRTMTlsZDBiek9SUHRUWlZnZGRObi1wM2FSX3ROSHFjRGVpc2dKdmY3YWVmN3pDMGU3WjVRN0V0MXJPNHEtdHpTNWJmeWRWQWRHYm1BUEY3NjNDbEVvVUFjeXVLVzVRVUJXQ0ptOEN2Sy1XczVCWE5BSUUwaTJrZU9nWGtaYWxteVFjV2Q2WGJwNDByV2xxOVdiSGJQTG5qOHpsRWpUMHFrRGdEZ2FwRk9fdzYydzVoQlJ5b0I4bGcxd2c?oc=5",
+        "publisher": "Cordoba Hoy",
+        "published_at": "2026-11-24T22:37:43+00:00",
+        "discovered_at": "2026-11-25T06:14:50.624608+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-c27ee49492dce3",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Chemin de table en carrés de tissu noués — variation : coração",
+      "tags": [
+        "décoration",
+        "table",
+        "tissu",
+        "assemblage sans couture",
+        "inspiration en ligne",
+        "coração"
+      ],
+      "minutes": 50,
+      "level": "Intermédiaire",
+      "time": "50 min",
+      "age": "Dès 12 ans",
+      "materials": [
+        "Carrés de coton : 24 de 100 × 100 mm",
+        "Ruban coton : 2 bandes de 500 × 20 mm",
+        "Ciseaux cranteurs : 1 paire",
+        "Règle : 1"
+      ],
+      "steps": [
+        "Disposer les carrés en quatre rangées de six, en alternant les couleurs.",
+        "Nouer les côtés des carrés voisins avec des bandes de tissu de 80 × 12 mm découpées dans des chutes.",
+        "Faire des nœuds plats doubles et garder une tension identique.",
+        "Fixer les quatre rangées entre elles par des nœuds aux points de contact.",
+        "Ajouter les deux rubans de bordure en les nouant aux carrés extérieurs.",
+        "Égaliser les franges et vérifier que le chemin reste plat.",
+        "Variation décorative facultative : reprendre le thème « coração » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Utiliser des tissus de même épaisseur afin que le chemin ne gondole pas. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "24 carrés de 100 × 100 mm; assemblage 4 × 6; attaches de 80 × 12 mm; format fini environ 600 × 400 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 100,
+          "height_mm": 100,
+          "label": "Carré tissu — répéter 24 en grille 4 × 6"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 110,
+          "y_mm": 0,
+          "width_mm": 80,
+          "height_mm": 12,
+          "label": "Bande d'attache — couper selon les jonctions"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Natal Feito à Mão começa a transformar a praça da Matriz com decoração artesanal - Prefeitura de Laguna -",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXZaTUxBOXNkckpQYUVjMlp5OUFMcldURnF3anFRQ1FiN3gxRzZKQWJrOVJyUWlGOXNLZDN6ZDlhc1ZlQ3RYY3RjOFFMTFE0Y3I0NWIxXzEwaGE5OGVXeFlaWmhfVDV2QXVPR2VmT0RkVVVHSkx2a2xwSk8zWDhZV2l0QjRyZ2l2R0FETFQwMWxXNk0wTVo5MWZRdHNzTHV2NlRPZ3NEWTdlZw?oc=5",
+        "publisher": "Prefeitura de Laguna -",
+        "published_at": "2026-11-24T20:13:26+00:00",
+        "discovered_at": "2026-11-25T06:14:50.625718+00:00",
+        "locale": "pt-BR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-4384f01a475724",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Boîte à couvercle coulissant en bois pré-découpé — variation : Mini Pajarera De Madera Sin Terminar – Para Decorar Y Pintar, Tamaño 14x — variation : 上位入賞の７人表彰 那須塩原 市木工工作コンクール｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
+      "tags": [
+        "bois",
+        "boîte",
+        "couvercle",
+        "assemblage précis",
+        "inspiration en ligne",
+        "mini pajarera de madera sin terminar – para decorar y pintar, tamaño 14x",
+        "上位入賞の７人表彰 那須塩原 市木工工作コンクール｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社"
+      ],
+      "minutes": 135,
+      "level": "Confirmé",
+      "time": "2 h 15 + séchage",
+      "age": "Dès 16 ans; pièces préparées par un adulte",
+      "materials": [
+        "Fond : 160 × 90 × 4 mm",
+        "Côtés longs : 2 pièces de 160 × 45 × 4 mm avec rainure",
+        "Côtés courts : 2 pièces de 82 × 45 × 4 mm",
+        "Couvercle : 158 × 88 × 3 mm",
+        "Colle à bois : 15 ml",
+        "Papier abrasif fin : 1 feuille"
+      ],
+      "steps": [
+        "Vérifier que les rainures des côtés longs sont alignées et que le couvercle y glisse sans forcer.",
+        "Faire un montage à blanc autour du fond; placer les côtés courts entre les longs.",
+        "Retirer les pièces, appliquer la colle uniquement sur les chants de contact avec le fond et les côtés courts.",
+        "Remonter la boîte à l'équerre et maintenir avec du ruban; essuyer les bavures sans remplir les rainures.",
+        "Après séchage complet, poncer les arêtes et vérifier le coulissement du couvercle.",
+        "Appliquer une finition à l'eau en couche fine, sans en mettre dans les rainures, puis laisser durcir.",
+        "Variation décorative facultative : reprendre le thème « Mini Pajarera De Madera Sin Terminar – Para Decorar Y Pintar, Tamaño 14x » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche.",
+        "Variation décorative facultative : reprendre le thème « 上位入賞の７人表彰 那須塩原 市木工工作コンクール｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社 » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Les rainures doivent être réalisées dans les pièces avant le projet; ne pas tenter de les creuser avec un outil non adapté. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Fond 160 × 90 mm; longs 2 × 160 × 45 mm avec rainure de 3 mm située à 8 mm du haut; courts 2 × 82 × 45 mm; couvercle 158 × 88 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 160,
+          "height_mm": 90,
+          "label": "Fond — 1 pièce"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 100,
+          "width_mm": 160,
+          "height_mm": 45,
+          "label": "Côtés longs rainurés — 2 pièces"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 170,
+          "y_mm": 100,
+          "width_mm": 82,
+          "height_mm": 45,
+          "label": "Côtés courts — 2 pièces"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 260,
+          "y_mm": 100,
+          "width_mm": 158,
+          "height_mm": 88,
+          "label": "Couvercle — 1 pièce"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "上位入賞の７人表彰 那須塩原 市木工工作コンクール｜朝刊・夕刊ニュース｜下野新聞デジタル - 下野新聞社",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zQWh3TExyaklvNnJicWJyQnU3c3hXbWJBT2hZbW8zM1I1eFc2ajdLSUEtek9DZURrNWI0U2NzUWxocUduZno4cEh4d0xOTVM0UDdhS0RXWFR1UkU?oc=5",
+        "publisher": "下野新聞社",
+        "published_at": "2026-11-24T20:00:00+00:00",
+        "discovered_at": "2026-11-25T06:14:50.626046+00:00",
+        "locale": "ja-JP",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-3cb17c58a502d8",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Portfolio d'observation du ciel sur quatre semaines — variation : Bouzas ultima su explosión navideña con un mercado lleno de gastronomía,",
+      "tags": [
+        "astronomie",
+        "portfolio",
+        "observation",
+        "carnet",
+        "inspiration en ligne",
+        "bouzas ultima su explosión navideña con un mercado lleno de gastronomía,"
+      ],
+      "minutes": 130,
+      "level": "Confirmé",
+      "time": "2 h 10 pour préparer le portfolio, observations réparties sur 4 semaines",
+      "age": "Dès 15 ans",
+      "materials": [
+        "Classeur A5 : 1",
+        "Fiches A5 : 12",
+        "Papier calque : 4 feuilles A5",
+        "Crayon HB : 1",
+        "Crayons de couleur : 6",
+        "Règle : 1",
+        "Pochettes transparentes : 4"
+      ],
+      "steps": [
+        "Préparer quatre fiches hebdomadaires avec les champs date, heure, lieu, météo et durée d'observation.",
+        "Tracer sur chaque fiche un cercle d'horizon de 100 mm et une rose des directions adaptée au lieu choisi.",
+        "Ajouter huit fiches d'objets observés avec un cadre de dessin de 80 × 100 mm.",
+        "Insérer un calque par semaine pour superposer les relevés et comparer les positions.",
+        "Lors des observations, noter uniquement ce qui est vu ou identifié avec une source fiable.",
+        "À la fin du mois, classer les fiches et écrire une courte synthèse des changements constatés.",
+        "Variation décorative facultative : reprendre le thème « Bouzas ultima su explosión navideña con un mercado lleno de gastronomía, » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Noter aussi les soirées nuageuses ou sans observation; cela évite de confondre absence de visibilité et absence d'un objet céleste. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Portfolio A5; 4 fiches hebdomadaires + 8 fiches d'objets; cadre 80 × 100 mm; horizon Ø 100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 148,
+          "height_mm": 210,
+          "label": "Fiche A5 — préparer 12"
+        },
+        {
+          "type": "circle",
+          "x_mm": 24,
+          "y_mm": 15,
+          "diameter_mm": 100,
+          "label": "Carte d'horizon Ø 100 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 15,
+          "y_mm": 125,
+          "width_mm": 80,
+          "height_mm": 65,
+          "label": "Cadre de dessin — 8 fiches objet"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Bouzas ultima su explosión navideña con un mercado lleno de gastronomía, artesanía y actividades en Vigo - Metropolitano.gal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOajV3dERMTXlUTzRGR2dJMy1JaGdWbUQ2WTIteWd1WjZITXhSY083ei1NYzVrc2Fram1RZUp3U0w4bkdJeWFWYURSd1psWlpoOHhnM2ZHclNiS3FnOWtCUTZFTkFwZDhjMm9UNFlRd1M3VTdjZG9DYW5HNXktRmVnLVdfUTdBS1VHMlhNekZZcG9EMXVjbzAzS1VvbUFCaTNZSkt6N3pjSHBETFpGTzVGaFNPd2luSjQ5QmRram1Jbnp0aU5DN0tiZXJ4MjNuV1hWLWdUcUtsRdIB3AFBVV95cUxOODBHVnZkYjd4RktLY1k2Y3p6OFMzSFI4UFR3SzczRVB6ZjFsbFZvLXZyTWdSQjhxRTczRUNGTTNyS2VaazJfNl8wRHdXdExScnlYYnJHNW9Jek9OOHNUUjJXVFJVRzcxcUpnVXg3Y2JkZ05IdlRrZGhuWHZ5XzZBaExKQjZoZWVMS25uUHhnQnN5TWd0a1plWXBzNzFqem15cmllUVkxVlZENEVWbmkxaF9HUVNyV1dtdUowSkw2RmFGSHJzS05XUEVSd3VZMC0tZUFjWVBjb01yOEd5?oc=5",
+        "publisher": "Metropolitano.gal",
+        "published_at": "2026-11-24T19:12:15+00:00",
+        "discovered_at": "2026-11-25T06:14:50.626575+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-2785a95d76a61b",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Support photo en pince à linge et bois — variation : lantern — variation : Maine Crafts Association awards Yuri Kobayashi with 2026 Maine Craft Art",
+      "tags": [
+        "bois",
+        "photo",
+        "pince",
+        "débutant",
+        "inspiration en ligne",
+        "lantern",
+        "maine crafts association awards yuri kobayashi with 2026 maine craft art"
+      ],
+      "minutes": 20,
+      "level": "Débutant",
+      "time": "20 min",
+      "age": "Dès 7 ans; colle chaude sous supervision adulte",
+      "materials": [
+        "Pince à linge en bois : 1",
+        "Petit bloc de bois poncé : 50 × 30 × 15 mm",
+        "Colle à bois : 2 ml",
+        "Peinture acrylique : 5 ml (facultatif)"
+      ],
+      "steps": [
+        "Vérifier que le bloc est poncé et sans écharde.",
+        "Décorer le bloc à la peinture et laisser sécher si nécessaire.",
+        "Déposer une fine ligne de colle à bois sur le côté plat de la pince.",
+        "Coller la pince debout au centre du bloc, ouverture vers le haut.",
+        "Laisser sécher selon l'emballage de la colle, puis glisser une photo dans la pince.",
+        "Variation décorative facultative : reprendre le thème « lantern » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche.",
+        "Variation décorative facultative : reprendre le thème « Maine Crafts Association awards Yuri Kobayashi with 2026 Maine Craft Art » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Ne pas mettre de colle dans le mécanisme de la pince; une photo légère tient mieux qu'un carton épais. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Bloc support 50 × 30 × 15 mm; pince à linge standard environ 72 × 10 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 50,
+          "height_mm": 30,
+          "label": "Bloc support — 1 pièce"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 65,
+          "y_mm": 0,
+          "width_mm": 72,
+          "height_mm": 10,
+          "label": "Pince — repère d'encombrement"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Maine Crafts Association awards Yuri Kobayashi with 2026 Maine Craft Artist Award - Woodworking Network",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdW1tcnpkMWlNYkpFM21YSkplQXdXWExqeVZnTlB3Szk1aGlSZklnN2tUQnZ4WFdnOGhOZXVNUW5KZUFjSFdHYlRXczhpdG9ERmlhZG5KQk9ZazNIUlVvbmhMWXd1dFVxYzlVMjNoOTI0eTNWaElQakgzcWpiWUZ3VTgzcV9Vclp0NUtnYWUtU3dJYzBlNlQ1c1B4QXBhN2o4b21FbjBjT1ZmMTB0WUpSYkl2ZGhDUGJiblJ4TkJET0JoVkhZczJaWA?oc=5",
+        "publisher": "Woodworking Network",
+        "published_at": "2026-11-24T16:03:02+00:00",
+        "discovered_at": "2026-11-25T06:14:50.628451+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-tricot-dd7300916fceaf",
+      "family_id": "tricot",
+      "kind": "project",
+      "category": "tricot",
+      "title": "Écharpe en point mousse — variation : 6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels -",
+      "tags": [
+        "tricot",
+        "écharpe",
+        "point mousse",
+        "inspiration en ligne",
+        "6 craft retreats offer knitting, pottery and more for all skill levels -"
+      ],
+      "minutes": 120,
+      "level": "Débutant",
+      "time": "2 h (séances cumulées)",
+      "age": "Dès 10 ans",
+      "materials": [
+        "Fil moyen : 180 m",
+        "Aiguilles 6 mm : 1 paire",
+        "Aiguille à laine : 1"
+      ],
+      "steps": [
+        "Monter 24 mailles pour une largeur proche de 160 mm avec un fil moyen.",
+        "Tricoter toutes les mailles à l'endroit sur chaque rang.",
+        "Continuer jusqu'à une longueur de 1200 mm, en mesurant sans étirer.",
+        "Rabattre les mailles souplement.",
+        "Rentrer les fils sur l'envers à l'aide de l'aiguille à laine.",
+        "Laver et sécher à plat selon les instructions du fil.",
+        "Variation décorative facultative : reprendre le thème « 6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels - » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Faire un échantillon de 100 × 100 mm; adapter le nombre de mailles pour obtenir une largeur de 160 mm. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Rectangle fini 160 × 1200 mm; échantillon indicatif 15 mailles × 22 rangs pour 100 × 100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 160,
+          "height_mm": 1200,
+          "label": "Écharpe 160 × 1200 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbk5FQ2luUmtmOHdUalFHRGx0cjQ3WHdiOUhOV1Z0bHNsU2Y1VllneGlwWlU2c19NbFE5VXNBTzRaUGctSFdfX1NMTFJDMVdRaGxzWDdlNlpJUWRyUWx1WUZfMHZTc1JRS19iNWxCdlBLRFo4ckdpemFfTGlLRXRjcldQX1N2UQ?oc=5",
+        "publisher": "The New York Times",
+        "published_at": "2026-11-24T15:37:35+00:00",
+        "discovered_at": "2026-11-25T06:14:50.628817+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-astronomie-decf99d2a68a10",
+      "family_id": "astronomie",
+      "kind": "project",
+      "category": "astronomie",
+      "title": "Mobile décoratif du Soleil et des planètes — variation : Guía por los mercados navideños de Lugo: entre artesanía, moda, sorteos",
+      "tags": [
+        "astronomie",
+        "mobile",
+        "planètes",
+        "décoration",
+        "inspiration en ligne",
+        "guía por los mercados navideños de lugo: entre artesanía, moda, sorteos"
+      ],
+      "minutes": 85,
+      "level": "Débutant",
+      "time": "1 h 25",
+      "age": "Dès 9 ans; suspension au plafond par un adulte",
+      "materials": [
+        "Carton léger : 9 disques de 40 à 100 mm",
+        "Fil coton : 5 m",
+        "Baguettes : 2 de 300 mm",
+        "Peinture : 8 couleurs, 5 ml chacune",
+        "Perforatrice : 1",
+        "Ciseaux : 1 paire"
+      ],
+      "steps": [
+        "Découper neuf disques de tailles différentes pour représenter le Soleil et huit planètes; le modèle n'est pas à l'échelle.",
+        "Peindre les disques et écrire au dos le nom de chaque astre.",
+        "Percer un trou de 3 mm près du bord de chaque disque et nouer un fil de longueur différente.",
+        "Lier les deux baguettes en croix par leur centre.",
+        "Accrocher le Soleil et les planètes aux baguettes en répartissant le poids pour équilibrer le mobile.",
+        "Faire poser la suspension par un adulte et vérifier qu'aucun fil ne s'emmêle.",
+        "Variation décorative facultative : reprendre le thème « Guía por los mercados navideños de Lugo: entre artesanía, moda, sorteos » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Les tailles et distances sont volontairement décoratives; ce mobile n'est pas une maquette à l'échelle. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "9 disques de Ø 40 à 100 mm; baguettes croisées de 300 mm; fils de 250 à 600 mm.",
+      "pattern_shapes": [
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "diameter_mm": 100,
+          "label": "Soleil — disque décoratif"
+        },
+        {
+          "type": "circle",
+          "x_mm": 110,
+          "y_mm": 0,
+          "diameter_mm": 60,
+          "label": "Planète — préparer 8 tailles variées"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 120,
+          "width_mm": 300,
+          "height_mm": 5,
+          "label": "Baguette — couper 2"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Guía por los mercados navideños de Lugo: entre artesanía, moda, sorteos y gastronomía - La Voz de Galicia",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVc0TDdZZFViQkhFNmNUY3BLN3ViY1BuTTgzUHdCQUtOYWMyZkNhWUdyV2U0X0FJOG5icVdvX0Vramlqdy1hZkNrUUd0R0xwdVN4QVJuV2c4ejJQYW81OGlyMk9IcXpVMjBrQWFsZDdMSjU0Y0UzQlVzanh4SDlYMklPaFBvYjV2N2cyUlBvWG9FWEFKclRCYkpyYTF4LU1PdFQtSjUwX243X19SV2FVVHViSld5eXFacVQ2VlloMFp2TGt1b2QwQ3hzcXVZMmVKUTd0N1RJczjSAfQBQVVfeXFMT2c4ZGJTVkZhZmIxaW9GOGFUV3Y2NUVqWDJrMHRHdFVGdk5UdlZDOE4xcGZqSVlNVGZHUThObk9UT08xSTVFeG1ObWh5RnpHYndvUC1HclR5UTZZRFpxaTI2Y1dhZEM1RElKVTkyOUdPZmZZZGcwTzNBdUhFQTRqZzAwX1FRLXdlX3dBd0JiUWlMVjRwRGFfVzZCR240bmo3MVZJckpzQzhhU3A2WkhYa0hlSWUxWTFEQ0lCcVR2RlZCLVo4UzFOSkM5MnlwYVBtM3BFUm1mMUIteU5ZZWoxTUl2dDNxU2lxNjE3WV81aW5wa2FIZw?oc=5",
+        "publisher": "La Voz de Galicia",
+        "published_at": "2026-11-24T04:01:35+00:00",
+        "discovered_at": "2026-11-25T06:14:50.633509+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-couture-bb5c1fb95faafd",
+      "family_id": "couture",
+      "kind": "project",
+      "category": "couture",
+      "title": "Tablier de cuisine à grande poche — variation : Costura, peluquería y manualidades se lucen en la Casa Beban y la Casa d",
+      "tags": [
+        "couture",
+        "tissu",
+        "tablier",
+        "poche",
+        "cuisine",
+        "inspiration en ligne",
+        "costura, peluquería y manualidades se lucen en la casa beban y la casa d"
+      ],
+      "minutes": 95,
+      "level": "Intermédiaire",
+      "time": "1 h 35",
+      "age": "Dès 14 ans, machine sous supervision",
+      "materials": [
+        "Toile de coton : 70 × 90 cm",
+        "Bande de coton pour liens : 2 bandes de 75 × 10 cm",
+        "Fil assorti : 5 m",
+        "Épingles : 12",
+        "Fer à repasser : 1"
+      ],
+      "steps": [
+        "Découper le corps du tablier selon le patron et finir les bords avec un double ourlet de 10 mm.",
+        "Préparer les deux liens : plier chaque bande en deux dans la longueur, rentrer les bords de 10 mm, repasser et piquer tout autour.",
+        "Plier le haut du tablier pour créer deux bretelles de 7 cm de large et arrondir les coins supérieurs selon le patron.",
+        "Fixer les liens sur les côtés à hauteur de taille, avec 30 mm de recouvrement, puis piquer un rectangle de renfort.",
+        "Découper la poche, faire un ourlet de 20 mm en haut et 10 mm sur les autres côtés.",
+        "Centrer la poche à 18 cm du bord inférieur, épingler et piquer les côtés et le bas en renforçant les coins.",
+        "Variation décorative facultative : reprendre le thème « Costura, peluquería y manualidades se lucen en la Casa Beban y la Casa d » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Essayer le tablier avant de fixer définitivement la longueur des liens; ajuster les extrémités sans réduire les renforts. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Corps : rectangle 700 × 900 mm, encolure en U centrée de 220 mm de large et 180 mm de profondeur. Poche : 260 × 220 mm. Liens : 2 bandes de 750 × 100 mm. Marges d'ourlet comprises.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 700,
+          "height_mm": 900,
+          "label": "Corps — tracer l'encolure centrée"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 710,
+          "y_mm": 0,
+          "width_mm": 260,
+          "height_mm": 220,
+          "label": "Poche — couper 1"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 910,
+          "width_mm": 750,
+          "height_mm": 100,
+          "label": "Lien — couper 2"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Costura, peluquería y manualidades se lucen en la Casa Beban y la Casa de la Mujer - Infofueguina",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV0JUSUdsb0hnNU50YVNDbGNfMGVPdENSdU5obWxaZlRfMXItSnVRVmxvNVRnSjV4cUxtdzY0WFdOcE53UVQ0UXFFeDFhMWJUbG9keTJJR1Z0RTNVMGEtXzBXb0hVRUJMN2NjS1R3ZUxzekxkT1VvcUVSOHh0UDdUSy1UVzJOWGpLR2lJd293MjZDNllycHFFZlB2WWwwbWFWenNHT0lNelItVUlMWTlWVHFnMUZKUkRnYktCOU05azh4MGFnMmo3ZlhLMVFycTJ1UkxPbVdYVXl6Yzd5cHdyNUJfb3U?oc=5",
+        "publisher": "Infofueguina",
+        "published_at": "2026-11-23T07:15:00+00:00",
+        "discovered_at": "2026-11-25T06:14:50.636049+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
     }
   ]
 }
