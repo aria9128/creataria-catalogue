@@ -1,10 +1,10 @@
 {
   "module": "CREATARIA",
   "manifest_version": 1,
-  "catalog_version": "2026.11.25",
+  "catalog_version": "2026.11.26",
   "catalog_file": "creations.json",
-  "catalog_sha256": "638ff966dbe9d9a82e538180ad4a014bb0adca30ff5bf4484872fde704b46938",
+  "catalog_sha256": "38218ddd621504ef0ad059370e5397c33215b14a08e861b61c708a0745ee5b14",
   "catalog_scope": "worldwide",
   "language": "fr",
-  "updated_at": "2026-11-25T06:14:50.688944+00:00"
+  "updated_at": "2026-11-26T15:23:44.311809+00:00"
 }

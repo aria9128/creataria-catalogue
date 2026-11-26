@@ -5,25 +5,25 @@
   "cells_filled": 216,
   "minimum_creations_per_family": 5,
   "family_counts": {
-    "couture": 13,
+    "couture": 15,
     "crochet": 10,
-    "tricot": 10,
+    "tricot": 12,
     "broderie": 9,
     "papier": 12,
-    "bois": 15,
+    "bois": 17,
     "dessin": 10,
     "peinture": 12,
     "origami": 9,
     "scrapbooking": 9,
     "bijoux": 10,
-    "modelage": 10,
+    "modelage": 11,
     "macrame": 10,
     "resine": 9,
     "jardinage": 12,
     "cuisine_creative": 10,
     "recyclage": 10,
     "jeux": 9,
-    "decoration": 18,
+    "decoration": 20,
     "textile": 11,
     "mosaique": 9,
     "photographie": 9,
@@ -59,7 +59,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "couture-debutant-long-housse"
+        "couture-debutant-long-housse",
+        "robot-couture-49d22468ed0cd5"
       ],
       "status": "complete"
     },
@@ -111,7 +112,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "couture-confirme-moyen-pochette-zip"
+        "couture-confirme-moyen-pochette-zip",
+        "robot-couture-e2f641a45f034c"
       ],
       "status": "complete"
     },
@@ -243,7 +245,8 @@
       "duration_label": "plus d'1 h",
       "creation_ids": [
         "tricot-debutant-long-echarpe",
-        "robot-tricot-dd7300916fceaf"
+        "robot-tricot-dd7300916fceaf",
+        "robot-tricot-9711eae2bbfdeb"
       ],
       "status": "complete"
     },
@@ -293,7 +296,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "tricot-confirme-moyen-bonnet-jacquard"
+        "tricot-confirme-moyen-bonnet-jacquard",
+        "robot-tricot-b8707a8643e7ef"
       ],
       "status": "complete"
     },
@@ -509,7 +513,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "bois-debutant-moyen-plaque-porte"
+        "bois-debutant-moyen-plaque-porte",
+        "robot-bois-79076890e47b41"
       ],
       "status": "complete"
     },
@@ -539,7 +544,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "bois-intermediaire-moyen-porte-cles"
+        "bois-intermediaire-moyen-porte-cles",
+        "robot-bois-db1b590e0979c9"
       ],
       "status": "complete"
     },
@@ -1087,7 +1093,8 @@
       "duration_id": "to_60",
       "duration_label": "30 min à 1 h",
       "creation_ids": [
-        "modelage-intermediaire-moyen-photophore-led"
+        "modelage-intermediaire-moyen-photophore-led",
+        "robot-modelage-f47b7ffa30eaa5"
       ],
       "status": "complete"
     },
@@ -1718,7 +1725,8 @@
       "duration_label": "moins de 30 min",
       "creation_ids": [
         "deco-intermediaire-court-rosace",
-        "robot-decoration-3606add6bc247e"
+        "robot-decoration-3606add6bc247e",
+        "robot-decoration-aa0349e76f77a3"
       ],
       "status": "complete"
     },
@@ -1741,7 +1749,8 @@
       "creation_ids": [
         "deco-intermediaire-long-boite-ombre",
         "robot-decoration-01de1c093c0856",
-        "robot-decoration-e292b92dbd0507"
+        "robot-decoration-e292b92dbd0507",
+        "robot-decoration-8606da2d14bbd9"
       ],
       "status": "complete"
     },

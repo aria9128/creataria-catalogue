@@ -14129,6 +14129,599 @@
         "method": "Google News RSS; titre, lien et éditeur seulement"
       },
       "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-db1b590e0979c9",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Porte-clés mural à trois patères — variation : Puzles, maquetas y piezas de madera: ideas para la artesanía de Palencia",
+      "tags": [
+        "bois",
+        "porte-clés",
+        "patère",
+        "assemblage",
+        "inspiration en ligne",
+        "puzles, maquetas y piezas de madera: ideas para la artesanía de palencia"
+      ],
+      "minutes": 50,
+      "level": "Intermédiaire",
+      "time": "50 min + séchage",
+      "age": "Dès 14 ans; perçage et fixation murale par un adulte",
+      "materials": [
+        "Planche poncée : 240 × 80 × 12 mm",
+        "Patères à vis : 3",
+        "Peinture ou huile décorative : 10 ml",
+        "Crayon : 1",
+        "Règle : 1",
+        "Attaches murales adaptées au support : 2"
+      ],
+      "steps": [
+        "Tracer une ligne horizontale au milieu de la planche, à 40 mm des bords longs.",
+        "Marquer les patères à 40, 120 et 200 mm du bord gauche.",
+        "Pré-percer les trous pilotes avec un foret adapté; un adulte réalise le perçage et vérifie l'absence de fissure.",
+        "Décorer la planche puis laisser sécher complètement.",
+        "Visser les trois patères sans forcer et contrôler qu'elles sont alignées.",
+        "Faire poser les attaches murales adaptées au type de mur par un adulte.",
+        "Variation décorative facultative : reprendre le thème « Puzles, maquetas y piezas de madera: ideas para la artesanía de Palencia » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "La charge admissible dépend des fixations et du mur; ne pas y suspendre d'objets lourds. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Planche 240 × 80 × 12 mm; axe des patères à 40 mm du bas; centres à 40, 120 et 200 mm du bord gauche.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 240,
+          "height_mm": 80,
+          "label": "Planche support — 1 pièce"
+        },
+        {
+          "type": "circle",
+          "x_mm": 35,
+          "y_mm": 35,
+          "diameter_mm": 10,
+          "label": "Repère patère — répéter aux centres 120 et 200 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Puzles, maquetas y piezas de madera: ideas para la artesanía de Palencia - PORTALDETUCIUDAD.com",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOTdOZ1VPOGFHS0pVVDdIaklCZG0xWVhtNkw0a0t5cFIwRDFQNTl5RnBGQmZrcWMzd2xWa19LbTlkV2NjU0Q0dklFc2RKNW9uUnpHMjNMdl80YzJsX3lIUWE2YzhDNVAwV3BYVmZ1VDJKd3ZsZTFMUTFuTkw0MERMdGF3RGRsUEhmcFVMY1RCT1JFQ0lOXzVUbDlhaEZwZjFDLXc3end6VUNzWmQ3NFhYZ0VqMG5DczZGNGg5cVFoVVV4VlZTdWFMdjM4Yk03Z2Jyc1Q3QjhRV2l1QlIxUHlNMnhFa2M5RGRVSG1v?oc=5",
+        "publisher": "PORTALDETUCIUDAD.com",
+        "published_at": "2026-11-26T14:58:46+00:00",
+        "discovered_at": "2026-11-26T15:23:44.244931+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-tricot-b8707a8643e7ef",
+      "family_id": "tricot",
+      "kind": "project",
+      "category": "tricot",
+      "title": "Bonnet à motif jacquard en deux couleurs — variation : 600 horas de oficinas e um campeonato de tricô na feira Créations & Savo",
+      "tags": [
+        "tricot",
+        "bonnet",
+        "jacquard",
+        "inspiration en ligne",
+        "600 horas de oficinas e um campeonato de tricô na feira créations & savo"
+      ],
+      "minutes": 55,
+      "level": "Confirmé",
+      "time": "55 min, hors blocage",
+      "age": "Dès 16 ans",
+      "materials": [
+        "Fil DK couleur A : 80 m",
+        "Fil DK couleur B : 25 m",
+        "Aiguilles circulaires 4 mm : 40 cm ou jeu double pointe",
+        "Marqueurs : 4",
+        "Aiguille à laine : 1"
+      ],
+      "steps": [
+        "Monter 96 mailles et joindre en rond sans torsion.",
+        "Tricoter 20 mm de côtes 2/2.",
+        "Tricoter 60 mm en jersey circulaire en répétant un motif simple de 8 mailles sur 4 tours avec la couleur B; croiser les fils à l'arrière tous les 4 mailles.",
+        "Placer les marqueurs tous les 24 mailles pour repérer quatre diminutions.",
+        "Diminuer 8 mailles réparties tous les 2 tours jusqu'à 16 mailles restantes.",
+        "Couper le fil, le passer dans les 16 mailles et serrer.",
+        "Rentrer les fils sans tirer sur les flottés et bloquer à plat.",
+        "Variation décorative facultative : reprendre le thème « 600 horas de oficinas e um campeonato de tricô na feira Créations & Savo » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Garder les fils flottés souples pour que le bonnet reste extensible; essayer régulièrement le tour de tête. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Tour de tête fini indicatif 480 mm; hauteur totale 220 mm; 96 mailles au montage avec échantillon 20 mailles/100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 480,
+          "height_mm": 220,
+          "label": "Enveloppe bonnet 480 × 220 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "600 horas de oficinas e um campeonato de tricô na feira Créations & Savoir-faire, em Paris - Sortir à Paris",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb0ctZURQS0EzQWo2NEpzM3ZabVFvUTlPVm1JelNXOGZLR3BGb3BBcGJmZzhEVlRuXy1RUmJWOFIyQ0ZnQVFGaFFTcExCdktoc01iQlJMTmhQWmt0S0NqQUxIYVVGQ0pyUXd4c1VDTVpTX3l4ZkxEdHRuQVlWUXcxeWc4OFg2cllpR2dwNnpnSFE5QlB5bC0zY19NNUw5QmtIMmVDemp5anE3NlcxaVg3SzlJNG1aa3BGT3NIWUl3OUtQWHpNd2NGRU91SHo3aTdqcllWcVpYblB5Y0FlbFhoYlJDVFNkbUFMR2pLQ1Y2ZHZvMWlNR1FQVkNReDc0NTg?oc=5",
+        "publisher": "Sortir à Paris",
+        "published_at": "2026-11-26T09:18:49+00:00",
+        "discovered_at": "2026-11-26T15:23:44.246317+00:00",
+        "locale": "pt-BR",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-aa0349e76f77a3",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Rosace de papier pour paquet cadeau — variation : El mercadillo navideño perfecto para este fin de semana en Zaragoza: art",
+      "tags": [
+        "décoration",
+        "papier",
+        "rosace",
+        "cadeau",
+        "inspiration en ligne",
+        "el mercadillo navideño perfecto para este fin de semana en zaragoza: art"
+      ],
+      "minutes": 25,
+      "level": "Intermédiaire",
+      "time": "25 min",
+      "age": "Dès 9 ans",
+      "materials": [
+        "Papier décoratif : 2 bandes de 200 × 40 mm",
+        "Colle : 2 ml",
+        "Fil : 150 mm",
+        "Ciseaux : 1 paire",
+        "Règle : 1"
+      ],
+      "steps": [
+        "Plier chaque bande en accordéon avec des plis de 10 mm.",
+        "Coller les deux bandes bout à bout pour former une bande longue.",
+        "Coller les deux extrémités ensemble afin de former un anneau accordéon.",
+        "Aplatir l'anneau en rosace en poussant son centre vers la table.",
+        "Nouer le fil autour du centre ou coller un petit disque de papier de 20 mm sur chaque face.",
+        "Laisser sécher avant de fixer la rosace au paquet.",
+        "Variation décorative facultative : reprendre le thème « El mercadillo navideño perfecto para este fin de semana en Zaragoza: art » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Maintenir le centre aplati pendant le séchage pour éviter que la rosace se rouvre. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "2 bandes 200 × 40 mm; plis tous les 10 mm; disque central Ø 20 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 200,
+          "height_mm": 40,
+          "label": "Bande plissée — couper 2"
+        },
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 50,
+          "diameter_mm": 20,
+          "label": "Disque de maintien — 2"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "El mercadillo navideño perfecto para este fin de semana en Zaragoza: artesanía, decoración, ropa y gastronomía - El Español",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN0lYWG9IQXkyMkRwM1lLMGxLY3VxaUdsQlA2MFIya2F3WEZlOFU1UVA0dVhDX1hDd2JrNjhEd1Y3cnV2dy0zNkt0RTFNTmFFSlhEMFFRNUdiS3c2YzhCRHIySmJXeG5CN0ZoTVVFcDJfSlZmRDJGVWpNa3B1cmxIWlZaUmZxWlRRNEFsLW16bjFkSno2WDVQWTdSNXdON2JOTTNlc2xsVVFjSGVJc0paTS1TbHZObWUwZVMta3hLbm9Ha0xsWHlheUlyd1JqTW5INXVfZndxa2VIYmhqNjhaaHhXWWJPc2I3RGY3UHRKMUrSAfYBQVVfeXFMTy1oam5rRy1iRmExYUR1ZDBmdUdyRHB3UG5CeGc1LXlkVVZkb1l1cEk2Q09tbDJCbjJPYVhtLVFoWHVSQ2IyMFhxQjhBSlpia2s5dGxJMzZqYVFEVG1ZdUt1dE5RZDVrck50eVVCQzFVMmpGY3JnQTQ0UDhJNk9qYzZ6SUdFWk1yNW54VG1TY2p5Si1URk5VanpfRmljWW1neW1sT0lobjlLWlY0d2dZV1lyMnFYWjc4YWE1R1NnYjFoRm9ITHVSY1J6TTZhd1Fhek1LT25JcEFvSS1DRExoTlpuVUV0MTV3dktvcjczSXpzMjBUNERR?oc=5",
+        "publisher": "El Español",
+        "published_at": "2026-11-26T08:48:45+00:00",
+        "discovered_at": "2026-11-26T15:23:44.246494+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-79076890e47b41",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Plaque décorative de porte en bois — variation : 28、29日富岡でクラフトフェア 木工や陶器の作品並ぶ キッチンカーも出店 - 福島民報デジタル",
+      "tags": [
+        "bois",
+        "plaque",
+        "peinture",
+        "décoration",
+        "inspiration en ligne",
+        "28、29日富岡でクラフトフェア 木工や陶器の作品並ぶ キッチンカーも出店 - 福島民報デジタル"
+      ],
+      "minutes": 45,
+      "level": "Débutant",
+      "time": "45 min + séchage",
+      "age": "Dès 8 ans; perçage par un adulte",
+      "materials": [
+        "Contreplaqué poncé : 180 × 80 × 6 mm",
+        "Peinture acrylique : 10 ml",
+        "Pinceau : 1",
+        "Ficelle : 300 mm",
+        "Papier abrasif fin : 1 feuille",
+        "Colle à bois : 2 ml"
+      ],
+      "steps": [
+        "Poncer les arêtes dans le sens du bois et enlever la poussière.",
+        "Appliquer une couche de fond sur la face et les chants; laisser sécher.",
+        "Peindre un motif simple ou inscrire un mot avec un pinceau fin.",
+        "Demander à un adulte de percer un trou de 4 mm à 10 mm du bord supérieur, au centre.",
+        "Passer la ficelle dans le trou et faire un nœud solide.",
+        "Laisser sécher complètement avant de suspendre la plaque.",
+        "Variation décorative facultative : reprendre le thème « 28、29日富岡でクラフトフェア 木工や陶器の作品並ぶ キッチンカーも出店 - 福島民報デジタル » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Tester les couleurs sur une chute du même bois, car le grain peut les assombrir. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Plaque rectangulaire 180 × 80 mm, coins adoucis sur un rayon de 5 mm; trou Ø 4 mm centré à 10 mm du bord haut.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 180,
+          "height_mm": 80,
+          "label": "Plaque — 1 pièce, coins adoucis"
+        },
+        {
+          "type": "circle",
+          "x_mm": 88,
+          "y_mm": 10,
+          "diameter_mm": 4,
+          "label": "Trou de suspension Ø 4 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "28、29日富岡でクラフトフェア 木工や陶器の作品並ぶ キッチンカーも出店 - 福島民報デジタル",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CZnlIa2dEeUxvSEZIRTJHZkNNcVZ4NVZDYWxrQzJnNnQyLVNZMzRETUh2MVBZTUd5emZHcHlKUnlSRmhzdzkxZDUxLWVydVU?oc=5",
+        "publisher": "福島民報デジタル",
+        "published_at": "2026-11-26T02:53:00+00:00",
+        "discovered_at": "2026-11-26T15:23:44.247427+00:00",
+        "locale": "ja-JP",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-tricot-9711eae2bbfdeb",
+      "family_id": "tricot",
+      "kind": "project",
+      "category": "tricot",
+      "title": "Écharpe en point mousse — variation : パリの「Créations & Savoir-faire」で、ワークショップ600時間と編み物選手権 - Sortir à Paris",
+      "tags": [
+        "tricot",
+        "écharpe",
+        "point mousse",
+        "inspiration en ligne",
+        "パリの「créations & savoir-faire」で、ワークショップ600時間と編み物選手権 - sortir à paris"
+      ],
+      "minutes": 120,
+      "level": "Débutant",
+      "time": "2 h (séances cumulées)",
+      "age": "Dès 10 ans",
+      "materials": [
+        "Fil moyen : 180 m",
+        "Aiguilles 6 mm : 1 paire",
+        "Aiguille à laine : 1"
+      ],
+      "steps": [
+        "Monter 24 mailles pour une largeur proche de 160 mm avec un fil moyen.",
+        "Tricoter toutes les mailles à l'endroit sur chaque rang.",
+        "Continuer jusqu'à une longueur de 1200 mm, en mesurant sans étirer.",
+        "Rabattre les mailles souplement.",
+        "Rentrer les fils sur l'envers à l'aide de l'aiguille à laine.",
+        "Laver et sécher à plat selon les instructions du fil.",
+        "Variation décorative facultative : reprendre le thème « パリの「Créations & Savoir-faire」で、ワークショップ600時間と編み物選手権 - Sortir à Paris » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Faire un échantillon de 100 × 100 mm; adapter le nombre de mailles pour obtenir une largeur de 160 mm. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Rectangle fini 160 × 1200 mm; échantillon indicatif 15 mailles × 22 rangs pour 100 × 100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 160,
+          "height_mm": 1200,
+          "label": "Écharpe 160 × 1200 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "パリの「Créations & Savoir-faire」で、ワークショップ600時間と編み物選手権 - Sortir à Paris",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWpEcU5Geng2WUZWb2dlM1gwNTRUb3dxZnFCMTR4MmFjZGxOREdadHIzZXdRYTlfQ1ZyOEI5bEc5eU5zM1FoU3Z5bDZhM0MxQjlkSXN4amRJTGpZblR2U2xwRXl4bzZmOVZnNVRDV2lQRmRqdHJGOVpNOFhYTm9Va0ZfdW1ZWldvUTZfMmtCa0tJb2RQY3BuemF4cjBXcVBtcTUtd0ZFdGszNU1fRGNFU3JmWU1sYVgxZUJ3Ml9CTVN0dWhaMFNJT01EOFNZT3FNUlVfUDVydWV5b1RKbnlfSElRcW9NSjlrVGYtMFJBT0diaDA?oc=5",
+        "publisher": "Sortir à Paris",
+        "published_at": "2026-11-26T01:18:00+00:00",
+        "discovered_at": "2026-11-26T15:23:44.247786+00:00",
+        "locale": "ja-JP",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-couture-49d22468ed0cd5",
+      "family_id": "couture",
+      "kind": "project",
+      "category": "couture",
+      "title": "Housse de coussin portefeuille — variation : Crafts2B reivindica el valor de la artesanía como elemento clave del luj",
+      "tags": [
+        "couture",
+        "tissu",
+        "coussin",
+        "housse",
+        "inspiration en ligne",
+        "crafts2b reivindica el valor de la artesanía como elemento clave del luj"
+      ],
+      "minutes": 90,
+      "level": "Débutant",
+      "time": "1 h 30",
+      "age": "Dès 12 ans, machine sous supervision",
+      "materials": [
+        "Coton : 1 pièce de 42 × 42 cm et 2 pièces de 42 × 30 cm",
+        "Fil : 3 m",
+        "Coussin intérieur de 40 × 40 cm : 1",
+        "Épingles : 10"
+      ],
+      "steps": [
+        "Faire un double ourlet de 1 cm sur un bord de 42 cm de chacune des deux pièces arrière; piquer à 2 mm du pli.",
+        "Poser la pièce avant à plat, endroit vers le haut.",
+        "Superposer les deux pièces arrière endroit vers le bas, en faisant chevaucher leurs ourlets sur 10 cm.",
+        "Épingler les quatre côtés et coudre tout le contour à 1 cm du bord.",
+        "Couper les coins en biais sans toucher la couture et surfiler le contour.",
+        "Retourner, former les coins et glisser le coussin par l'ouverture portefeuille.",
+        "Variation décorative facultative : reprendre le thème « Crafts2B reivindica el valor de la artesanía como elemento clave del luj » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Le chevauchement doit rester d'au moins 8 cm pour qu'il ne s'ouvre pas lorsque le coussin est comprimé. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Avant : 420 × 420 mm. Dos : 2 pièces de 420 × 300 mm. Marges périphériques de 10 mm incluses; chevauchement central de 100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 420,
+          "height_mm": 420,
+          "label": "Face avant — couper 1"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 430,
+          "width_mm": 420,
+          "height_mm": 300,
+          "label": "Dos — couper 2"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Crafts2B reivindica el valor de la artesanía como elemento clave del lujo y la alta costura - Ediciones Sibila",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFJSTE1TRkNiTHZkaTd3OWNSeWoxMmRRNnllb0Qtd2g0ei1MNGFKRHlTZVdvc2lpODNjS3YwcW5QUmd0NVlneXl4MHVPOVg4UGV5RUtKbFBXeUJtUkcxYk9hWUtlakR0d0dFM1lvOWhCdjhmMzlXWENkbjlfbkhrUzZXYW9HNXprQjZMUGZrTzkxNUd1N2tRaThSZjg0d1J4Q1NtajJGRmI2Vk1JOFEtX19aRDZoaF9OYjdpbQ?oc=5",
+        "publisher": "Ediciones Sibila",
+        "published_at": "2026-11-25T23:29:57+00:00",
+        "discovered_at": "2026-11-26T15:23:44.247987+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-couture-e2f641a45f034c",
+      "family_id": "couture",
+      "kind": "project",
+      "category": "couture",
+      "title": "Pochette doublée à fermeture éclair — variation : gift",
+      "tags": [
+        "couture",
+        "zip",
+        "fermeture éclair",
+        "doublure",
+        "pochette",
+        "inspiration en ligne",
+        "gift"
+      ],
+      "minutes": 55,
+      "level": "Confirmé",
+      "time": "55 min",
+      "age": "Dès 15 ans, pied fermeture éclair recommandé",
+      "materials": [
+        "Tissu extérieur : 2 rectangles de 22 × 16 cm",
+        "Doublure : 2 rectangles de 22 × 16 cm",
+        "Fermeture éclair : 20 cm",
+        "Fil assorti : 3 m",
+        "Pied fermeture éclair : 1"
+      ],
+      "steps": [
+        "Poser un rectangle extérieur endroit vers le haut, la fermeture éclair endroit vers le bas sur son bord de 22 cm, puis un rectangle de doublure endroit vers le bas.",
+        "Épingler et piquer près des dents avec le pied spécial; rabattre les tissus et surpiquer à 3 mm du zip.",
+        "Répéter avec les deux autres rectangles sur l'autre côté de la fermeture.",
+        "Ouvrir le zip à mi-course; placer les tissus extérieurs endroit contre endroit et les doublures endroit contre endroit.",
+        "Coudre le contour à 10 mm du bord en laissant 7 cm d'ouverture dans le fond de la doublure; éviter les dents du zip.",
+        "Égaliser les marges, retourner par l'ouverture, fermer celle-ci et rentrer la doublure.",
+        "Variation décorative facultative : reprendre le thème « gift » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Ouvrir le zip avant de fermer le contour; sans cette ouverture, la pochette ne peut pas être retournée. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "4 rectangles de 220 × 160 mm; marge de couture de 10 mm incluse. Fermeture éclair finie 200 mm. Pochette finie environ 200 × 140 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 220,
+          "height_mm": 160,
+          "label": "Extérieur — couper 2"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 230,
+          "y_mm": 0,
+          "width_mm": 220,
+          "height_mm": 160,
+          "label": "Doublure — couper 2"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Silly Daisy Brings Unique Gifts, Handmade Clothing and Sewing Classes to Sellwood - KOIN.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0tPRExVdEFzc2Iwb1M1bllmc2VLTHJjVEliOGhxal9ZbFUtN2hGbjN4c25sQ1VQT3Q3OGpsMlVKV0ZNelBhVzhzNmwxX1ZWYXUwWjM5THpfbVRGZEh4S3ozVld0MlYyQjZDNS1LN3o3WndHSUZ6YUlGUHJoT191SVJTaEtjdjVld0ZNQmlUQ2MyYkhGdklRd3BrNVJ5bTN0djVnWEMxWXpFTnlwR1lNbFhNVEhNQlRpYkRNOdIBwgFBVV95cUxPbXRxQmd3bGk4Q1hoODY1cXBpM2dvN2xZLTBXd2FGQm5NMFZGdE1JcXFjQXdvakJIaWVqcmI5V240Sy1sYndHM3R1QTlwaW1hQzgxMS1kcmZLM1JLUmVUZ0tuSDFZc3FXamlrSXQ3c0Q4SWRGZ0ZnbFMydE9SN3VVcVhsSkk1dml3cU9YeFZCZ19hOTZKZ012d3pzRmVVSVY0eE90MlkxeEZLbGkwenBTZWdhaUxFZlF2eDNLVDN5aGJGUQ?oc=5",
+        "publisher": "KOIN.com",
+        "published_at": "2026-11-25T22:52:31+00:00",
+        "discovered_at": "2026-11-26T15:23:44.248064+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-modelage-f47b7ffa30eaa5",
+      "family_id": "modelage",
+      "kind": "project",
+      "category": "modelage",
+      "title": "Photophore décoratif ajouré pour LED — variation : gift",
+      "tags": [
+        "modelage",
+        "argile",
+        "photophore",
+        "LED",
+        "inspiration en ligne",
+        "gift"
+      ],
+      "minutes": 50,
+      "level": "Intermédiaire",
+      "time": "50 min + séchage",
+      "age": "Dès 12 ans; LED à pile uniquement",
+      "materials": [
+        "Argile autodurcissante : 300 g",
+        "Pot cylindrique pour gabarit : Ø 60 mm",
+        "Rouleau : 1",
+        "Paille : 1",
+        "Outil de coupe : 1",
+        "LED à pile : 1"
+      ],
+      "steps": [
+        "Étaler l'argile à 7 mm d'épaisseur et découper un rectangle de 200 × 70 mm.",
+        "Enrouler la bande autour du pot gabarit en faisant chevaucher les extrémités de 10 mm; lisser la jonction.",
+        "Découper six ouvertures de 12 mm de diamètre, espacées régulièrement et à au moins 12 mm des bords.",
+        "Former un disque de base de 68 mm de diamètre et assembler le cylindre dessus avec de l'argile humide.",
+        "Vérifier que le cylindre est stable et que la LED tient à l'intérieur sans toucher les parois.",
+        "Laisser sécher complètement; utiliser uniquement une LED froide à pile, jamais une flamme.",
+        "Variation décorative facultative : reprendre le thème « gift » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Aucune bougie réelle : l'argile autodurcissante et les ajours ne sont pas conçus pour la chaleur. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Paroi 200 × 70 × 7 mm, cylindre fini Ø 60 mm; base Ø 68 mm; 6 ouvertures Ø 12 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 200,
+          "height_mm": 70,
+          "label": "Paroi cylindrique — chevauchement 10 mm"
+        },
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 80,
+          "diameter_mm": 68,
+          "label": "Base Ø 68 mm"
+        },
+        {
+          "type": "circle",
+          "x_mm": 80,
+          "y_mm": 90,
+          "diameter_mm": 12,
+          "label": "Ouverture — répéter 6 fois"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Crafting Through the Holidays: Handmade Gifts From Clay to Lasers - GeekDad",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWklMWW5ZaTM3SzVNOVFKQmNneUtzTVlVaTNXLTh1NklWZW9PX1FzTkh5UU04SEs1TFg0WVo0aTNTd2hFM29ibkhiN3hWNmhMX1AzZlgyZHNTQ2pVbTZQVjFwclp5SG12LTFieXJ3d3lIWEVubFdxc3BaOFR1SEF3SFphRXUyWmZRS0o4TFZiUW1xYnRNeVFpZg?oc=5",
+        "publisher": "GeekDad",
+        "published_at": "2026-11-25T12:00:39+00:00",
+        "discovered_at": "2026-11-26T15:23:44.250442+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-decoration-8606da2d14bbd9",
+      "family_id": "decoration",
+      "kind": "project",
+      "category": "decoration",
+      "title": "Boîte d'ombre décorative à plusieurs plans — variation : La ciudad con un mercadillo de Navidad que abre el 4 de diciembre: 20 pu — variation : Llega a Asturias el mercadillo más viral de España: dos días, acceso gra",
+      "tags": [
+        "décoration",
+        "boîte d'ombre",
+        "papier",
+        "relief",
+        "inspiration en ligne",
+        "la ciudad con un mercadillo de navidad que abre el 4 de diciembre: 20 pu",
+        "llega a asturias el mercadillo más viral de españa: dos días, acceso gra"
+      ],
+      "minutes": 95,
+      "level": "Intermédiaire",
+      "time": "1 h 35",
+      "age": "Dès 13 ans",
+      "materials": [
+        "Cadre profond : ouverture 150 × 150 mm",
+        "Carton plume : 3 feuilles de 150 × 150 × 5 mm",
+        "Papier coloré : 3 feuilles A5",
+        "Colle : 5 ml",
+        "Cutter de précision : 1, adulte uniquement",
+        "Règle métallique : 1"
+      ],
+      "steps": [
+        "Dessiner trois plans de paysage sur papier : arrière-plan, éléments centraux et premier plan.",
+        "Découper chaque plan en laissant une marge extérieure de 10 mm qui s'insère dans le cadre.",
+        "Découper des entretoises de carton plume de 10 × 150 mm.",
+        "Coller le fond au cadre, poser des entretoises aux quatre coins, puis fixer le plan central.",
+        "Ajouter un second jeu d'entretoises et coller le premier plan.",
+        "Fermer le dos du cadre et vérifier que rien ne touche la vitre.",
+        "Variation décorative facultative : reprendre le thème « La ciudad con un mercadillo de Navidad que abre el 4 de diciembre: 20 pu » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche.",
+        "Variation décorative facultative : reprendre le thème « Llega a Asturias el mercadillo más viral de España: dos días, acceso gra » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Un adulte effectue les coupes au cutter; travailler sur un tapis et éloigner les doigts de la lame. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Ouverture 150 × 150 mm; trois plans 150 × 150 mm; entretoises 10 × 150 mm; profondeur de séparation 10 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 150,
+          "height_mm": 150,
+          "label": "Format de chaque plan — 3 couches"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 160,
+          "y_mm": 0,
+          "width_mm": 10,
+          "height_mm": 150,
+          "label": "Entretoise — répéter 8"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Llega a Asturias el mercadillo más viral de España: dos días, acceso gratuito y más de 25 marcas de moda, artesanía y decoración coincidiendo con el encendido navideño - La Nueva España",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQU9QSlY5Q1c1Mmc3OTR2VVYyclFwc0xRcTIyX3JjSlJxRUFfVkRqTzlVSlVJa0JMRllaY3hZZDMzb25ycmNFNm5DZEIwYnAtZFRjUXgyMHB4RTRLR3lRTjFfcUVaeGs2ZjVQb2NRRGM4dXNaU0FtMEVGWFFTeUREb3NxSXZGemFENGlvT0ZFOXdrRTN30gGaAUFVX3lxTE1xSkRJRWxOUVRMbU1fNHM1SGlQY04wb2NWc2MtT0daclZybU05UG9EZGhyYS1XT201UkJsUjFOaEdEV1pYalNwRjUzMzkzZWtWVkpwRHY2V2poNVJ3dGQ5VkdaOEowbG1iTThXZEZXbW5GSHFkb2x2ZTNISGVoUVYwdmZrQWRFSzQyTmpFSFZHcll0WVZoUkxWSGc?oc=5",
+        "publisher": "La Nueva España",
+        "published_at": "2026-11-24T13:20:56+00:00",
+        "discovered_at": "2026-11-26T15:23:44.252529+00:00",
+        "locale": "es-ES",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
     }
   ]
 }
