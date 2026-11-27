@@ -14722,6 +14722,257 @@
         "method": "Google News RSS; titre, lien et éditeur seulement"
       },
       "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-1e229970f16b4f",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Sous-verre en bois à motif géométrique — variation : tree",
+      "tags": [
+        "bois",
+        "sous-verre",
+        "motif",
+        "finitions",
+        "inspiration en ligne",
+        "tree"
+      ],
+      "minutes": 25,
+      "level": "Confirmé",
+      "time": "25 min + séchage",
+      "age": "Dès 14 ans",
+      "materials": [
+        "Disque de contreplaqué poncé : Ø 90 × 6 mm",
+        "Ruban de masquage : 300 mm",
+        "Peinture acrylique : 2 couleurs, 5 ml chacune",
+        "Vernis à l'eau : 3 ml",
+        "Papier abrasif fin : 1 morceau"
+      ],
+      "steps": [
+        "Vérifier que le disque est lisse et dépoussiéré.",
+        "Poser deux bandes de masquage en diagonale pour former quatre secteurs triangulaires.",
+        "Peindre deux secteurs opposés avec la première couleur et laisser sécher.",
+        "Retirer le ruban, le repositionner pour protéger les secteurs peints, puis appliquer la seconde couleur.",
+        "Après séchage complet, appliquer une fine couche de vernis à l'eau sur les deux faces et les chants.",
+        "Laisser durcir selon l'étiquette avant de poser une boisson; essuyer immédiatement les liquides.",
+        "Variation décorative facultative : reprendre le thème « tree » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Un sous-verre peint n'est pas conçu pour supporter une casserole chaude ni un trempage prolongé. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Disque Ø 90 mm, épaisseur 6 mm; diagonales reliant les quadrants; motif libre à quatre secteurs.",
+      "pattern_shapes": [
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "diameter_mm": 90,
+          "label": "Disque support Ø 90 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Meet the craftsman making handmade wooden Christmas trees - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoaE1RRkxoelJocm9acy1DLWNzeXJyOFYtWTl6aHBiR3Y0VFFRT1dCekhnWHJreVBDYWlvLUM3ZVZYQ3phdTNTd2UxLTQ1dEI1amIxVE5yVGVka0U?oc=5",
+        "publisher": "BBC",
+        "published_at": "2026-11-27T14:05:35+00:00",
+        "discovered_at": "2026-11-27T15:11:02.790592+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-tricot-9e180346807963",
+      "family_id": "tricot",
+      "kind": "project",
+      "category": "tricot",
+      "title": "Pull raglan tricoté de haut en bas — variation : Première Vision Paris to spotlight craft expertise - Knitting Trade Jour",
+      "tags": [
+        "tricot",
+        "pull",
+        "raglan",
+        "inspiration en ligne",
+        "première vision paris to spotlight craft expertise - knitting trade jour"
+      ],
+      "minutes": 240,
+      "level": "Confirmé",
+      "time": "4 h (séances cumulées)",
+      "age": "Adulte",
+      "materials": [
+        "Fil DK : environ 1000 m pour taille S indicative",
+        "Aiguilles circulaires 4 mm et 3,5 mm : 1 jeu de chaque",
+        "Marqueurs : 8",
+        "Aiguille à laine : 1"
+      ],
+      "steps": [
+        "Tricoter un échantillon de 100 × 100 mm en jersey; viser 20 mailles × 28 rangs.",
+        "Monter 88 mailles pour l'encolure et tricoter 20 mm de côtes 1/1.",
+        "Placer 4 marqueurs raglan : 28 mailles devant, 16 manche, 28 dos, 16 manche.",
+        "Augmenter 1 maille avant et après chaque marqueur tous les 2 tours jusqu'à obtenir environ 240 mailles.",
+        "Séparer les manches : réserver 52 mailles chacune; réunir devant et dos pour le corps.",
+        "Tricoter le corps jusqu'à 380 mm depuis l'aisselle puis faire 50 mm de côtes.",
+        "Reprendre chaque manche, relever 8 mailles sous l'aisselle, diminuer régulièrement jusqu'à 160 mm de tour au poignet et tricoter 420 mm; finir par 50 mm de côtes.",
+        "Rentrer les fils et bloquer selon l'étiquette du fil.",
+        "Variation décorative facultative : reprendre le thème « Première Vision Paris to spotlight craft expertise - Knitting Trade Jour » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Ces nombres sont une base indicative taille S; contrôler l'échantillon et les mensurations réelles avant de séparer les manches. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Tour poitrine fini indicatif 900 mm; longueur corps depuis aisselle 430 mm; manches 470 mm; échantillon 20 mailles × 28 rangs/100 mm.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 450,
+          "height_mm": 430,
+          "label": "Demi-corps à plat, largeur indicative 450 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 470,
+          "y_mm": 0,
+          "width_mm": 160,
+          "height_mm": 470,
+          "label": "Manche déroulée, poignet 160 mm de tour"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Première Vision Paris to spotlight craft expertise - Knitting Trade Journal",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDZHSlpjRGlNUEhzelF2R19xZE9WLVZtSnppRjIwQkNpN0JZaDJFU2Vwd3p3UE5WakRpTUdVVFMwWFB4MTJ6QTJNTjhqQ2FYbnQ2ZzBfLTlBUzdhUW9QT2xXY1NjNHJHYzgtX2Y4RXhkSGZ5UlVuRWRwMW44OGpXSDJycTBHeTBDdnlMZHo2bnY0OGtHY05zVU8zV1p4SHcy?oc=5",
+        "publisher": "Knitting Trade Journal",
+        "published_at": "2026-11-27T11:35:27+00:00",
+        "discovered_at": "2026-11-27T15:11:02.791508+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-papier-889d87d244805b",
+      "family_id": "papier",
+      "kind": "project",
+      "category": "papier",
+      "title": "Lanterne décorative pour LED à pile — variation : Cutting and Pasting a World: The Paper Craft of Henry Darger - Choose Ch",
+      "tags": [
+        "papier",
+        "lanterne",
+        "décoration",
+        "LED",
+        "inspiration en ligne",
+        "cutting and pasting a world: the paper craft of henry darger - choose ch"
+      ],
+      "minutes": 75,
+      "level": "Débutant",
+      "time": "1 h 15",
+      "age": "Dès 8 ans; LED uniquement",
+      "materials": [
+        "Carton 160 g/m² : 1 feuille A3",
+        "Papier calque : 1 feuille A4",
+        "Colle : 5 ml",
+        "Règle : 1",
+        "Ciseaux : 1 paire",
+        "LED à pile : 1"
+      ],
+      "steps": [
+        "Découper un rectangle de 297 × 180 mm.",
+        "Tracer les plis verticaux à 72, 144, 216 et 288 mm; les 9 mm restants forment la languette.",
+        "Découper dans chaque panneau une fenêtre de 46 × 80 mm, centrée et à 20 mm du haut.",
+        "Coller au dos des fenêtres des morceaux de calque de 60 × 94 mm.",
+        "Marquer les plis, coller la languette et fermer le prisme carré.",
+        "Poser sur une surface stable et utiliser uniquement une LED à pile; jamais de bougie.",
+        "Variation décorative facultative : reprendre le thème « Cutting and Pasting a World: The Paper Craft of Henry Darger - Choose Ch » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Éloigner le papier de toute flamme; la lanterne est exclusivement conçue pour une LED froide à pile. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Corps 297 × 180 mm; 4 panneaux de 72 × 180 mm et languette 9 mm; fenêtre 46 × 80 mm par panneau.",
+      "pattern_shapes": [
+        {
+          "type": "rectangle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "width_mm": 297,
+          "height_mm": 180,
+          "label": "Corps — plis à 72, 144, 216 et 288 mm"
+        },
+        {
+          "type": "rectangle",
+          "x_mm": 13,
+          "y_mm": 20,
+          "width_mm": 46,
+          "height_mm": 80,
+          "label": "Fenêtre — reporter au centre de chaque face"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Cutting and Pasting a World: The Paper Craft of Henry Darger - Choose Chicago",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEk1NmswREFRekxHam9qMGFyM09TelNGN3RUR0NtUndCWnFjNTl6MURGM3pENGtubkxYMzFUcHBELUdFdlBrNktSWklzOGg3dHVjZlNnbFNQaTlQRDJRR2F2ckZ5ZVBObzRUNlhWek94ZEdrZ0dWNk5aNC1qa3BNbUpLSUQ3eHI0MHprYkR1Tll3WWIySHEwTzJEZTBSOEx2dkJXMzZvOU1PME0?oc=5",
+        "publisher": "Choose Chicago",
+        "published_at": "2026-11-27T11:12:51+00:00",
+        "discovered_at": "2026-11-27T15:11:02.791674+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
+    },
+    {
+      "id": "robot-bois-3c60ea293c7b03",
+      "family_id": "bois",
+      "kind": "project",
+      "category": "bois",
+      "title": "Sous-verre en bois à motif géométrique — variation : Slideshow: ARKOBJECT spotlights Istanbul’s contemporary craft culture -",
+      "tags": [
+        "bois",
+        "sous-verre",
+        "motif",
+        "finitions",
+        "inspiration en ligne",
+        "slideshow: arkobject spotlights istanbul’s contemporary craft culture -"
+      ],
+      "minutes": 25,
+      "level": "Confirmé",
+      "time": "25 min + séchage",
+      "age": "Dès 14 ans",
+      "materials": [
+        "Disque de contreplaqué poncé : Ø 90 × 6 mm",
+        "Ruban de masquage : 300 mm",
+        "Peinture acrylique : 2 couleurs, 5 ml chacune",
+        "Vernis à l'eau : 3 ml",
+        "Papier abrasif fin : 1 morceau"
+      ],
+      "steps": [
+        "Vérifier que le disque est lisse et dépoussiéré.",
+        "Poser deux bandes de masquage en diagonale pour former quatre secteurs triangulaires.",
+        "Peindre deux secteurs opposés avec la première couleur et laisser sécher.",
+        "Retirer le ruban, le repositionner pour protéger les secteurs peints, puis appliquer la seconde couleur.",
+        "Après séchage complet, appliquer une fine couche de vernis à l'eau sur les deux faces et les chants.",
+        "Laisser durcir selon l'étiquette avant de poser une boisson; essuyer immédiatement les liquides.",
+        "Variation décorative facultative : reprendre le thème « Slideshow: ARKOBJECT spotlights Istanbul’s contemporary craft culture - » uniquement dans les couleurs ou le motif de surface; conserver les matériaux, les mesures et les consignes de sécurité de cette fiche."
+      ],
+      "tip": "Un sous-verre peint n'est pas conçu pour supporter une casserole chaude ni un trempage prolongé. Variation générée automatiquement à partir d'une idée repérée en ligne. Le lien est une piste d'inspiration, pas une source d'étapes ou de photo; les dimensions, quantités et consignes de cette fiche restent celles du patron CREATARIA.",
+      "pattern": "Disque Ø 90 mm, épaisseur 6 mm; diagonales reliant les quadrants; motif libre à quatre secteurs.",
+      "pattern_shapes": [
+        {
+          "type": "circle",
+          "x_mm": 0,
+          "y_mm": 0,
+          "diameter_mm": 90,
+          "label": "Disque support Ø 90 mm"
+        }
+      ],
+      "photo": "",
+      "schematic": "",
+      "source": {
+        "title": "Slideshow: ARKOBJECT spotlights Istanbul’s contemporary craft culture - Woodworking Network",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHVvRHVPMGlKLWNGWEF5c29TNGxmcG9XaEtHMGR1Q0Qtcnp1czA3OEhFMEVMS0ZUbFFkNERmcEI0VXMya2phZkUwRUdCYmJ5ZmdiYlNDY1BhOVItTFJUTE1TRFJkb0RZcVVRcm9sblNZYzg1dVdqazBEV2VKa09rd3VsWEliTi1IbzAwQWZBV05oSkZOcTV0VU9tc21KaE5pTjB6U0wtcnV2RjJSa3c?oc=5",
+        "publisher": "Woodworking Network",
+        "published_at": "2026-11-25T18:07:43+00:00",
+        "discovered_at": "2026-11-27T15:11:02.796685+00:00",
+        "locale": "en-US",
+        "method": "Google News RSS; titre, lien et éditeur seulement"
+      },
+      "generated_by": "CREATARIA catalog robot"
     }
   ]
 }

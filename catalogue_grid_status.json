@@ -7,10 +7,10 @@
   "family_counts": {
     "couture": 15,
     "crochet": 10,
-    "tricot": 12,
+    "tricot": 13,
     "broderie": 9,
-    "papier": 12,
-    "bois": 17,
+    "papier": 13,
+    "bois": 19,
     "dessin": 10,
     "peinture": 12,
     "origami": 9,
@@ -307,7 +307,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "tricot-confirme-long-pull-raglan"
+        "tricot-confirme-long-pull-raglan",
+        "robot-tricot-9e180346807963"
       ],
       "status": "complete"
     },
@@ -427,7 +428,8 @@
       "duration_id": "over_60",
       "duration_label": "plus d'1 h",
       "creation_ids": [
-        "papier-debutant-long-lanterne"
+        "papier-debutant-long-lanterne",
+        "robot-papier-889d87d244805b"
       ],
       "status": "complete"
     },
@@ -565,7 +567,9 @@
       "duration_id": "under_30",
       "duration_label": "moins de 30 min",
       "creation_ids": [
-        "bois-confirme-court-sous-verre"
+        "bois-confirme-court-sous-verre",
+        "robot-bois-1e229970f16b4f",
+        "robot-bois-3c60ea293c7b03"
       ],
       "status": "complete"
     },
